@@ -14,7 +14,7 @@ website:
         text: Education
       - href: experience.qmd
         text: Experience
-      - href: research.qmd
+      - href: research/index.qmd
         text: Research
       - href: software.qmd
         text: Software
