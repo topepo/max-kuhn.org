@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Max Kuhn"
-  repo-url: https://github.com/tidymodels/tidymodels.org
+  repo-url: https://github.com/topepo/max-kuhn.org
   repo-actions: [edit, issue]
   navbar:
     left:
