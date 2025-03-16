@@ -1,0 +1,20 @@
+---
+title: "Building Predictive Models in R using the caret Package"
+year:  2008 
+image: fig.jpg
+categories:
+  - article
+  - software
+  - machine learning
+---
+
+Kuhn M (2008). “Building predictive models in R using the caret package.” _Journal of Statistical Software_, *28*(5), 1-26.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Building+predictive+models+in+R+using+the+caret+package2008&btnG=) 
+
+- DOI: [10.18637/jss.v028.i05](https://doi.org/10.18637/jss.v028.i05)
+
+
+## Abstract
+
+The caret package, short for classification and regression training, contains numerous tools for developing predictive models using the rich set of models available in R. The package focuses on simplifying model training and tuning across a wide variety of modeling techniques. It also includes methods for pre-processing training data, calculating variable importance, and model visualizations. An example from computational chemistry is used to illustrate the functionality on a real data set and to benchmark the benefits of parallel processing with several types of models.

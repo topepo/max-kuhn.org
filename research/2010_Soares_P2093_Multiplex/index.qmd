@@ -1,0 +1,33 @@
+---
+title: "P2-093: Multiplex Plasma Panels as Screening Tools in Alzheimer's Disease."
+year:  2010 
+categories:
+  - article
+  - drug discovery
+---
+
+Soares H, Hu W, Grossman M, Clark C, Pickering E, Chen Y, Kuhn M, Chen-Plotkin A, Arnold S, Shaw L, others (2010). “P2-093: Multiplex plasma panels as screening tools in Alzheimer's disease.” _Alzheimer's & Dementia_, *6*, S340-S340.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P2+093+Multiplex+plasma+panels+as+screening+tools+in+Alzheimer+s+disease+2010&btnG=) 
+
+- DOI: [10.1016/j.jalz.2010.05.1139](https://doi.org/10.1016/j.jalz.2010.05.1139)
+
+
+## Abstract
+
+### Background
+
+The identification of a non-invasive blood test to identify patients with Alzheimer's disease would significantly enable early intervention studies in AD. The present study examines the performance of 190 plasma based analytes in differentiating AD from controls.
+
+### Methods
+
+A luminex based multiplex immunoassay panel was utilized in 266 plasma samples from the University of Pennsylvania neurodegeneration and dementia centers. The multiplex panel was utilized to estimate the diagnostic accuracy in differentiating AD from controls. Performance of the panel was compared to a baseline demographic model including age, gender and ApoE4. Expression of final panel analytes was also examined in CSF to test whether these same plasma markers also showed differential expression in CSF. Finally, plasma analytes were examined for relationship to ApoE4 allelic expression.
+
+### Results
+
+A demographic model to differentiate AD from controls and including age, gender and ApoE4 genotype showed 64% sensitivity and 73% specificity with a corresponding diagnostic accuracy of 70%. A model using between 18-30 analytes significantly increased specificity to 70-85% when sensitivity was set to 80%. The panel also showed some utility in differentiating AD from other forms of dementia. Performance of the panel is being compared in additional independent datasets. A majority of the analytes were also differentially expressed in CSF suggesting biological relevance to CNS pathology. Finally, Apolipoprotein E protein levels in plasma were lower in patients with one or more ApoE4 alleles compared to those with no ApoE4 alleles suggesting there is a specific plasma phenotype associated with ApoE genotype.
+
+### Conclusions
+
+Multiplex plasma panels have utility as screening tools that could be combined with cognitive, imaging or CSF biomarkers to aid in identifying patients with AD.
+

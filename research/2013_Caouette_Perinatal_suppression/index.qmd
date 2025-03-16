@@ -1,0 +1,20 @@
+---
+title: "Perinatal Suppression of Tau P301L Has a Long Lasting Preventive Effect Against Neurodegeneration"
+year:  2013 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Caouette D, Xie Z, Milici A, Kuhn M, Bocan T, Yang D (2013). “Perinatal suppression of Tau P301L has a long lasting preventive effect against neurodegeneration.” _International Journal of Neuropathology_, 53-69.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Perinatal+suppression+of+Tau+P301L+has+a+long+lasting+preventive+effect+against+neurodegeneration2013&btnG=) 
+
+- DOI: [10.7726/ijn.2013.1003](https://doi.org/10.7726/ijn.2013.1003)
+
+
+## Abstract
+
+Hyperphosphorylation of the microtubule-associated protein tau (MAPT) has been linked to several neurodegenerative diseases including Alzheimer’s disease (AD) and frontotemporal dementia (FTD). The rTg4510 transgenic mouse model expresses a human variant of tau, P301L, which is repressible with doxycycline. Neurofibrillary tangles (NFTs), neuronal loss, and behavioral impairments can be measured in a progressive, age-dependent manner. In this study, we used in vivo volumetric MRI, localized MRS as well as post mortem immunohistochemistry, to evaluate the effects of perinatal tau inhibition. The results demonstrated that continuous doxycycline exposure from birth until adulthood (2.5-month-old) was sufficient to delay accumulation of hyperphosphorylated tau and formation of NFTs in rTg4510 mouse brain. Volumetric MRI and histological evaluation also highlighted the absence of forebrain atrophy or neurodegeneration until at least 10 months of age. These results suggest that the most severe pathological events associated with P301L tauopathy occur at the perinatal and early postnatal stages and that providing protection against these events may significantly reduce the risks of neurodegeneration in adulthood.
+

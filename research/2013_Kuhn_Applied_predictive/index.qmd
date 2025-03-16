@@ -1,0 +1,24 @@
+---
+title: "Applied Predictive Modeling"
+year:  2013 
+image: apm.jpg
+categories:
+  - book
+  - software
+  - machine learning
+---
+
+Kuhn M, Johnson K (2013). _Applied predictive modeling_. Springer New York.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Applied+predictive+modeling2013&btnG=) 
+
+- DOI: [10.1007/978-1-4614-6849-3](https://doi.org/10.1007/978-1-4614-6849-3)
+
+## About this book
+
+_Applied Predictive Modeling_ covers the overall predictive modeling process, beginning with the crucial steps of data preprocessing, data splitting and foundations of model tuning. The text then provides intuitive explanations of numerous common and modern regression and classification techniques, always with an emphasis on illustrating and solving real data problems. The text illustrates all parts of the modeling process through many hands-on, real-life examples, and every chapter contains extensive R code for each step of the process. 
+
+This multi-purpose text can be used as an introduction to predictive models and the overall modeling process, a practitioner’s reference handbook, or as a text for advanced undergraduate or graduate level predictive modeling courses.  To that end, each chapter contains problem sets to help solidify the covered concepts and uses data available in the book’s R package.
+
+This text is intended for a broad audience as both an introduction to predictive models as well as a guide to applying them. Non-mathematical readers will appreciate the intuitive explanations of the techniques while an emphasis on problem-solving with real data across a wide variety of applications will aid practitioners who wish to extend their expertise. Readers should have knowledge of basic statistical ideas, such as correlation and linear regression analysis. While the text is biased against complex equations, a mathematical background is needed for advanced topics.
+

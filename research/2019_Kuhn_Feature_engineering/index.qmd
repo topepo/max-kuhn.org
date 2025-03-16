@@ -1,0 +1,22 @@
+---
+title: "Feature Engineering and Selection: A Practical Approach for Predictive Models"
+year:  2019 
+image: fes.jpg
+categories:
+  - book
+  - machine learning
+---
+
+Kuhn M, Johnson K (2019). _Feature engineering and selection: A practical approach for predictive models_. Chapman and Hall/CRC.
+
+Full content on-line at [`https://bookdown.org/max/FES/`](https://bookdown.org/max/FES/)
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Feature+engineering+and+selection+A+practical+approach+for+predictive+models2019&btnG=) 
+
+- DOI: [10.1201/9781315108230](https://doi.org/10.1201/9781315108230)
+
+
+## Abstract
+
+The process of developing predictive models includes many stages. Most resources focus on the modeling algorithms but neglect other critical aspects of the modeling process. This book describes techniques for finding the best representations of predictors for modeling and for nding the best subset of predictors for improving model performance. A variety of example data sets are used to illustrate the techniques along with R programs for reproducing the results.
+

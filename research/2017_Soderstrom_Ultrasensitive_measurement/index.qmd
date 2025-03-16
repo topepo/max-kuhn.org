@@ -1,0 +1,20 @@
+---
+title: "Ultra-Sensitive Measurement of IL-17a and IL-17f in Psoriasis Patient Serum and Skin"
+year:  2017 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Soderstrom C, Berstein G, Zhang W, Valdez H, Fitz L, Kuhn M, Fraser S (2017). “Ultra-sensitive measurement of IL-17A and IL-17F in psoriasis patient serum and skin.” _The AAPS journal_, *19*(4), 1218-1222.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Ultra+sensitive+measurement+of+IL+17A+and+IL+17F+in+psoriasis+patient+serum+and+skin2017&btnG=) 
+
+- DOI: [10.1208/s12248-017-0094-4](https://doi.org/10.1208/s12248-017-0094-4)
+
+
+## Abstract
+
+Interleukin 17 is a family of cytokines that play a central role in many autoimmune and inflammatory diseases. IL-17A has been implicated as a key driver of psoriasis, mediating a chronic cycle of T-cell activation, keratinocyte proliferation and angiogenesis. It has been hypothesized that expression of IL-17A and the related cytokine IL-17F could be used as predictive biomarkers for therapeutic response, though they have been difficult to measure locally or in circulation because of their low abundance. We developed ultrasensitive methods for measuring IL-17A and IL-17F in human serum samples and found that serum from psoriasis patients had higher and a broader range of concentrations of both IL-17 proteins compared to healthy volunteers. We also adapted these methods for tissue biopsies and saw higher concentrations of both IL-17 proteins in psoriatic lesions, but they were undetectable in non-lesional skin from the same patients.
+

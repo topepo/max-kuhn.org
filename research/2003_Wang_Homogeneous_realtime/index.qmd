@@ -1,0 +1,25 @@
+---
+title: "Homogeneous Real-Time Detection of Single-Nucleotide Polymorphisms by Strand Displacement Amplification on the BD ProbeTec ET System"
+year:  2003 
+image: fig.jpg
+categories:
+  - article
+  - moledular diagnostics
+---
+
+Wang S, Thornton K, Kuhn AM, Nadeau JG, Hellyer TJ (2003). “Homogeneous real-time detection of single-nucleotide polymorphisms by strand displacement amplification on the BD ProbeTec ET system.” _Clinical chemistry_, *49*(10), 1599.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Homogeneous+real+time+detection+of+single+nucleotide+polymorphisms+by+strand+displacement+amplification+on+the+BD+ProbeTec+ET+system2003&btnG=) 
+
+- DOI: [10.1373/49.10.1599](https://doi.org/10.1373/49.10.1599)
+
+
+## Abstract
+
+Background: The BD ProbeTec™ ET System is based on isothermal strand displacement amplification (SDA) of target nucleic acid coupled with homogeneous real-time detection using fluorescent probes. We have developed a novel, rapid method using this platform that incorporates a universal detection format for identification of single-nucleotide polymorphisms (SNPs) and other genotypic variations.
+
+Method: The system uses a common pair of fluorescent Detector Probes in conjunction with unlabeled allele-specific Adapter Primers and a universal buffer chemistry to permit analysis of multiple SNP loci under generic assay conditions. We used Detector Probes labeled with different dyes to facilitate differentiation of two alternative alleles in a single reaction with no postamplification manipulation. We analyzed six SNPs within the human β2-adrenergic receptor (β2AR) gene, using whole blood, buccal swabs, and urine samples, and compared results with those obtained by DNA sequencing.
+
+Results: Unprocessed whole blood was successfully genotyped with as little as 0.1–1 μL of sample per reaction. All six β2AR assays were able to accommodate ≥20 μL of unprocessed whole blood. For the 14 individuals tested, genotypes determined with the six β2AR assays agreed with DNA sequencing results.
+
+Conclusion: SDA-based allelic differentiation on the BD ProbeTec ET System can detect SNPs rapidly, using whole blood, buccal swabs, or urine.

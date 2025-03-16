@@ -1,0 +1,20 @@
+---
+title: "Quantitative Assessment of the Impact of Fluorine Substitution on P-Glycoprotein (P-Gp) Mediated Efflux, Permeability, Lipophilicity, and Metabolic Stability"
+year:  2016 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Pettersson M, Hou X, Kuhn M, Wager TT, Kauffman GW, Verhoest PR (2016). “Quantitative assessment of the impact of fluorine substitution on P-glycoprotein (P-gp) mediated efflux, permeability, lipophilicity, and metabolic stability.” _Journal of medicinal chemistry_, *59*(11), 5284-5296.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Quantitative+assessment+of+the+impact+of+fluorine+substitution+on+P+glycoprotein+P+gp+mediated+efflux+permeability+lipophilicity+and+metabolic+stability2016&btnG=) 
+
+- DOI: [10.1021/acs.jmedchem.6b00027](https://doi.org/10.1021/acs.jmedchem.6b00027)
+
+
+## Abstract
+
+Strategic replacement of one or more hydrogen atoms with fluorine atom(s) is a common tactic to improve potency at a given target and/or to modulate parameters such as metabolic stability and pKa. Molecular weight (MW) is a key parameter in design, and incorporation of fluorine is associated with a disproportionate increase in MW considering the van der Waals radius of fluorine versus hydrogen. Herein we examine a large compound data set to understand the effect of introducing fluorine on the risk of encountering P-glycoprotein mediated efflux (as measured by MDR efflux ratio), passive permeability, lipophilicity, and metabolic stability. Statistical modeling of the MDR ER data demonstrated that an increase in MW as a result of introducing fluorine atoms does not lead to higher risk of P-gp mediated efflux. Fluorine-corrected molecular weight (MWFC), where the molecular weight of fluorine has been subtracted, was found to be a more relevant descriptor.
+

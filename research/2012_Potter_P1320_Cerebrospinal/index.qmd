@@ -1,0 +1,32 @@
+---
+title: "P1-320: Cerebrospinal Fluid (CSF) vs. Plasma-Based Biomarkers in Alzheimer's Disease (AD), Mild Cognitive Impaired (MCI) and Age-Matched Healthy Controls (HC) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) Cohort"
+year:  2012 
+categories:
+  - article
+  - drug discovery
+---
+
+Potter W, Pickering EH, Immermann F, Kuhn M, Siuciak J, Shaw L, (ADNI) ADNI, for NIH Biomarkers Consortium CSF Proteomics Project Team F (2012). “P1-320: Cerebrospinal fluid (CSF) vs. plasma-based biomarkers in Alzheimer's disease (AD), mild cognitive impaired (MCI) and age-matched healthy controls (HC) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.” _Alzheimer's & Dementia_, *8*(4S\_Part\_6), P217-P217.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P1+320+Cerebrospinal+fluid+CSF+vs+plasma+based+biomarkers+in+Alzheimer+s+disease+AD+mild+cognitive+impaired+MCI+and+age+matched+healthy+controls+HC+from+the+Alzheimer+s+Disease+Neuroimaging+Initiative+ADNI+cohort2012&btnG=) 
+
+- DOI: [10.1016/j.jalz.2012.05.2006](https://doi.org/10.1016/j.jalz.2012.05.2006)
+
+
+## Abstract
+
+### Background
+
+We utilized a multiplex panel to assess cerebrospinal fluid (CSF) from the ADNI cohort. These results were compared to reported plasma peptide values for the same ADNI subjects.
+
+### Methods
+
+CSF baseline ADNI samples (327) were assessed in a multiplex luminex assay (N = 92 HC, N = 69 AD, N = 149 amnestic MCI, N = 1 unknown diagnosis, plus 16 technical replicates). Plasma peptide values for these same ADNI subjects were previously reported using the same multiplex assay (Soares et al., AAIC, 2011, manuscript submitted). Analytes with >10% missing data were excluded from the analysis; raw data were normalized with missing and outlier data imputed. Group comparisons for each analyte were adjusted for age, gender and ApoE genotype.
+
+### Results
+
+Using a >0.45 Spearman Rank Correlation value as a threshold for a modest or greater degree of covariance, 14 out of 75 analytes co-varied across CSF and plasma using the actual reported concentrations. When adjusted for age, gender and APOE4 status 71% peptides maintained a correlation >0.45. Five peptides correlated with values from 0.89-0.64, in order from highest to lowest: leptin, C-Reactive Protein, apolipoprotein (a), immunoglobulin A, chemokine CC-4 and pancreatic polypeptide.
+
+### Conclusions
+
+Most peptides showed little correlative relationship between CSF and plasma in this cross-sectional group comparison. If steady-state equilibrium across the blood brain barrier were operable, more robust positive correlations for the bulk of the peptides might have been expected. Whether there is a stronger within individual co-variation of peptides over time between these compartments remains open. Functional polymorphisms for the genes of the two peptides showing the highest correlations, leptin and C-reactive protein, have been reported to explain a substantial proportion of the variance in plasma concentrations of their respective protein products. This supports the possibility that common determinants of rates of formation of a limited number of analytes are operable in both compartments.

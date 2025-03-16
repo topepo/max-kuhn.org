@@ -1,0 +1,19 @@
+---
+title: "Novel CSF Biomarkers for Alzheimer’s Disease and Mild Cognitive Impairment"
+year:  2010 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Hu WT, Chen-Plotkin A, Arnold SE, Grossman M, Clark CM, Shaw LM, Pickering E, Kuhn M, Chen Y, McCluskey L, others (2010). “Novel CSF biomarkers for Alzheimer’s disease and mild cognitive impairment.” _Acta neuropathologica_, *119*, 669-678.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Novel+CSF+biomarkers+for+Alzheimer+s+disease+and+mild+cognitive+impairment2010&btnG=) 
+
+- DOI: [10.1007/s00401-010-0667-0](https://doi.org/10.1007/s00401-010-0667-0)
+
+
+## Abstract
+
+Altered levels of cerebrospinal fluid (CSF) peptides related to Alzheimer’s disease (AD) are associated with pathologic AD diagnosis, although cognitively normal subjects can also have abnormal levels of these AD biomarkers. To identify novel CSF biomarkers that distinguish pathologically confirmed AD from cognitively normal subjects and patients with other neurodegenerative disorders, we collected antemortem CSF samples from 66 AD patients and 25 patients with other neurodegenerative dementias followed longitudinally to neuropathologic confirmation, plus CSF from 33 cognitively normal subjects. We measured levels of 151 novel analytes via a targeted multiplex panel enriched in cytokines, chemokines and growth factors, as well as established AD CSF biomarkers (levels of Aβ42, tau and p-tau181). Two categories of biomarkers were identified: (1) analytes that specifically distinguished AD (especially CSF Aβ42 levels) from cognitively normal subjects and other disorders; and (2) analytes altered in multiple diseases (NrCAM, PDGF, C3, IL-1α), but not in cognitively normal subjects. A multi-prong analytical approach showed AD patients were best distinguished from non-AD cases (including cognitively normal subjects and patients with other neurodegenerative disorders) by a combination of traditional AD biomarkers and novel multiplex biomarkers. Six novel biomarkers (C3, CgA, IL-1α, I-309, NrCAM and VEGF) were correlated with the severity of cognitive impairment at CSF collection, and altered levels of IL-1α and TECK associated with subsequent cognitive decline in 38 longitudinally followed subjects with mild cognitive impairment. In summary, our targeted proteomic screen revealed novel CSF biomarkers that can improve the distinction between AD and non-AD cases by established biomarkers alone.

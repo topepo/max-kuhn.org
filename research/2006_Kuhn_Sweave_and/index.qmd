@@ -1,0 +1,12 @@
+---
+title: "Sweave and the Open Document Format - the odfWeave Package"
+year:  2006
+image: fig.jpg
+categories:
+  - article
+  - software
+---
+
+Kuhn M (2006). “Sweave and the open document format-the odfWeave package.” _R News_, *6*(4), 2-8.
+
+Journal was re-named "The R Journal" and the artical can be found at [`https://journal.r-project.org/articles/RN-2006-025/`](https://journal.r-project.org/articles/RN-2006-025/).

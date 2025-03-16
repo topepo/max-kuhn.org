@@ -1,0 +1,20 @@
+---
+title: "SIMON: Open-Source Knowledge Discovery Platform"
+year:  2021 
+image: fig.jpg
+categories:
+  - article
+  - software
+---
+
+Tomic A, Tomic I, Waldron L, Geistlinger L, Kuhn M, Spreng RL, Dahora LC, Seaton KE, Tomaras G, Hill J, others (2021). “SIMON: open-source knowledge discovery platform.” _Patterns_, *2*(1).
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=SIMON+open+source+knowledge+discovery+platform2021&btnG=) 
+
+- DOI: [10.1016/j.patter.2020.100178](https://doi.org/10.1016/j.patter.2020.100178)
+
+
+## Abstract
+
+Over the past years, technological advances have enabled the generation of large amounts of data at multiple scales. The integration of high-dimensional data is particularly important in biomedical sciences, as they can be used to identify biological mechanisms and predict clinical outcomes well in advance of their occurrence. Because of the lack of powerful analytical tools that can be used by the average biomedical researcher, translation of such knowledge has been extremely slow. We have developed an open-source software, SIMON, to facilitate the application of machine learning to high-dimensional biomedical data. In SIMON, analysis is performed using an intuitive graphical user interface and standardized, automated machine learning approach allowing non-technical researchers to identify patterns and extract knowledge from high-dimensional data and build high-quality predictive models.
+

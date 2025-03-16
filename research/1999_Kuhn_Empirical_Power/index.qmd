@@ -1,0 +1,19 @@
+---
+title: "Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials"
+year:  1999 
+image: fig.jpg
+categories:
+  - article
+---
+
+Kuhn AM, DeMasi RA (1999). “Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials.” _Journal of Biopharmaceutical Statistics_, *9*(3), 401-416.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Empirical+Power+for+Distribution+Free+Tests+of+Incomplete+Longitudinal+Data+with+Applications+to+AIDS+Clinical+Trials1999&btnG=) 
+
+- DOI: [10.1081/BIP-100101184](https://doi.org/10.1081/BIP-100101184)
+
+
+## Abstract
+
+The design of AIDS clinical trials is of growing importance. These studies tend to be longitudinal and typically involve missing data. HIV-1 RNA is a common endpoint for these studies and is inherently nonnormal, although viral load can be measured only within certain bounds, resulting in censored data. We compared several analysis methods, both univariate and multivariate, on the basis of empirical power and provide an illustrative example of data from a controlled clinical trial. Simulated viral load data demonstrate that methods adjusting for baseline data have power increasing with increasing positive intrasubject correlation expected with this type of data. Several summary measures considered have power compatible with multivariate tests.
+

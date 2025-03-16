@@ -1,0 +1,33 @@
+---
+title: "Predictive Modeling of Response to Pregabalin for the Treatment of Neuropathic Pain using 6-Week Observational Data: a Spectrum of Modern Analytics Applications"
+year:  2017 
+image: fig.jpg
+categories:
+  - article
+  - machine learning
+---
+
+Emir B, Johnson K, Kuhn M, Parsons B (2017). “Predictive modeling of response to pregabalin for the treatment of neuropathic pain using 6-week observational data: a spectrum of modern analytics applications.” _Clinical therapeutics_, *39*(1), 98-106.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Predictive+modeling+of+response+to+pregabalin+for+the+treatment+of+neuropathic+pain+using+6+week+observational+data+a+spectrum+of+modern+analytics+applications2017&btnG=) 
+
+- DOI: [10.1016/j.clinthera.2016.11.015](https://doi.org/10.1016/j.clinthera.2016.11.015)
+
+
+## Abstract
+
+### Purpose
+
+This post hoc analysis used 11 predictive models of data from a large observational study in Germany to evaluate potential predictors of achieving at least 50% pain reduction by week 6 after treatment initiation (50% pain response) with pregabalin (150–600 mg/d) in patients with neuropathic pain (NeP).
+
+### Methods
+
+The potential predictors evaluated included baseline demographic and clinical characteristics, such as patient-reported pain severity (0 [no pain] to 10 [worst possible pain]) and pain-related sleep disturbance scores (0 [sleep not impaired] to 10 [severely impaired sleep]) that were collected during clinic visits (baseline and weeks 1, 3, and 6). Baseline characteristics were also evaluated combined with pain change at week 1 or weeks 1 and 3 as potential predictors of end-of-treatment 50% pain response. The 11 predictive models were linear, nonlinear, and tree based, and all predictors in the training dataset were ranked according to their variable importance and normalized to 100%.
+
+### Findings
+
+The training dataset comprised 9187 patients, and the testing dataset had 6114 patients. To adjust for the high imbalance in the responder distribution (75% of patients were 50% responders), which can skew the parameter tuning process, the training set was balanced into sets of 1000 responders and 1000 nonresponders. The predictive modeling approaches that were used produced consistent results. Baseline characteristics alone had fair predictive value (accuracy range, 0.61–0.72; κ range, 0.17–0.30). Baseline predictors combined with pain change at week 1 had moderate predictive value (accuracy, 0.73–0.81; κ range, 0.37–0.49). Baseline predictors with pain change at weeks 1 and 3 had substantial predictive value (accuracy, 0.83–0.89; κ range, 0.54–0.71). When variable importance across the models was estimated, the best predictor of 50% responder status was pain change at week 3 (average importance 100.0%), followed by pain change at week 1 (48.1%), baseline pain score (14.1%), baseline depression (13.9%), and using pregabalin as a monotherapy (11.7%).
+
+### Implications
+
+The finding that pain changes by week 1 or weeks 1 and 3 are the best predictors of pregabalin response at 6 weeks suggests that adhering to a pregabalin medication regimen is important for an optimal end-of-treatment outcome. Regarding baseline predictors alone, considerable published evidence supports the importance of high baseline pain score and presence of depression as factors that can affect treatment response. Future research would be required to elucidate why using pregabalin as a monotherapy also had more than a 10% variable importance as a potential predictor.

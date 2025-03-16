@@ -1,0 +1,15 @@
+---
+title: "Welcome to the Tidyverse"
+year:  2019 
+image: tidyverse.png
+categories:
+  - article
+  - software
+---
+
+Hadley Wickham, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D'Agostino McGowan, Romain François, Garrett Grolemund, Alex Hayes, Lionel Henry, Jim Hester, Max Kuhn, Thomas Lin Pedersen, Evan Miller, Stephan Milton Bache, Kirill Müller, Jeroen Ooms, David Robinson, Dana Paige Seidel, Vitalie Spinu, Kohske Takahashi, Davis Vaughan, Claus Wilke, Kara Woo, Hiroaki Yutani (2019). “Welcome to the Tidyverse.” _Journal of open source software_, *4*(43), 1686.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Welcome+to+the+Tidyverse2019&btnG=) 
+
+- DOI: [10.21105/joss.01686](https://doi.org/10.21105/joss.01686)
+

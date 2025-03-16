@@ -1,0 +1,27 @@
+---
+title: "Assessing the Performance of Spatial Cross-Validation Approaches for Models of Spatially Structured Data"
+year:  2023 
+image: fig.jpg
+categories:
+  - article
+  - software
+  - machine learning
+---
+
+Mahoney MJ, Johnson LK, Silge J, Frick H, Kuhn M, Beier CM (2023).
+“Assessing the performance of spatial cross-validation approaches for
+models of spatially structured data.” _arXiv preprint
+arXiv:2303.07334_.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Assessing+the+performance+of+spatial+cross+validation+approaches+for+models+of+spatially+structured+data2023&btnG=) 
+
+- DOI: [10.21105/joss.04471](https://doi.org/10.21105/joss.04471)
+
+
+## Abstract
+
+Model stacking is an ensemble modeling technique that involves training a model to combine
+the outputs of many constituent statistical models. {stacks} is a free and open-source R
+software package for stacked ensemble modeling that is consistent with tidy data principles.
+The package’s functionality is closely aligned with the {tidymodels}, a collection of packages providing a unified interface to a diverse set of statistical modeling techniques. Beyond simply providing a mathematically robust interface to build stacked ensemble models, {stacks} adheres to a consistent grammar in order to interface with two object classes that promote an intuitive understanding of the underlying implementation.
+

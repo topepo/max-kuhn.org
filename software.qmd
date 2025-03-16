@@ -1,0 +1,104 @@
+---
+title: "Software"
+---
+
+```{r}
+#| label: startup
+#| include: false
+
+library(tidyverse)
+library(lubridate)
+library(pkgsearch)
+library(DT)
+library(cranlogs)
+```
+
+I have written a variety of [R packages](https://r-pkgs.org/) and have contributed to others. 
+
+The sections below enumerate packages on [CRAN](https://cran.r-project.org/). Download statistics are from the Posit mirror of CRAN and are current as of `r today()`.
+
+There are others that are unreleased, prototypes, or otherwise in-progress and these can be found on [my GitHub repositories page](https://github.com/topepo?tab=repositories&q=&type=source&language=&sort=).
+
+```{r}
+#| label: find-packages
+#| include: false
+
+check_authors <- function(x) {
+ if (any(names(x) == "Authors@R")) {
+  author_detail <- eval(parse(text = x$`Authors@R`))
+ } else {
+  author_detail <- x$Author
+ }
+ any(grepl("Max Kuhn", author_detail))
+}
+
+pick_url <- function(x, pkg) {
+ if (is.na(x)) {
+  return(cli::format_inline("https://CRAN.R-project.org/package={pkg}"))
+ }
+ x = gsub("\n", "", x)
+ x <- strsplit(x, split = ",")[[1]]
+ pkgdown <- grepl("(\\.io)|(\\.org)", x)
+ if (any(pkgdown)) {
+  x <- x[pkgdown]
+ }
+ x[1]
+}
+
+kuhn_pkgs <-
+ advanced_search(Author = "kuhn", size = 100) %>%
+ as_tibble() %>%
+ mutate(its_a_me = map_lgl(package_data,check_authors)) %>%
+ filter(its_a_me) %>%
+ select(package, title, maintainer = maintainer_name, 
+        `reverse dependencies` = revdeps, url) %>%
+ mutate(
+  url = map2_chr(url, package, pick_url),
+  topic = glue::glue("<a href='{url}' target='_blank'>{package}</a>")
+ ) %>% 
+ mutate(package = factor(package)) %>%
+ arrange(package)
+
+downloads <-
+ cran_downloads(kuhn_pkgs$package, from = ymd("2005-01-01"), to = today()) %>%
+ summarize(downloads = sum(count), .by = c(package))
+
+kuhn_pkgs <- 
+ full_join(kuhn_pkgs, downloads, by = "package")
+```
+
+
+## CRAN Packages Maintained By Me
+
+```{r}
+#| label: max
+#| echo: false
+kuhn_pkgs %>% 
+ filter(maintainer == "Max Kuhn") %>% 
+ select(package = topic, title, `reverse dependencies`, downloads) %>% 
+ datatable(rownames = FALSE,
+           class = 'cell-border stripe',
+           filter = 'top',
+           escape = FALSE,
+           options = list(pageLength = 25))
+```
+
+
+I also wrote the [odfWeave](https://cran.r-project.org/web/packages/odfWeave/index.html) package which I archived on 2018-04-19.
+
+## CRAN Packages Maintained By Others
+
+These packages are those that I have either oriiginally maintained, signficantly contributed to directly, or my code was included enough to be listed as a co-author: 
+
+```{r}
+#| label: others
+#| echo: false
+kuhn_pkgs %>% 
+ filter(maintainer != "Max Kuhn") %>% 
+ select(package = topic, title, maintainer, `reverse dependencies`, downloads) %>% 
+ datatable(rownames = FALSE,
+           class = 'cell-border stripe',
+           filter = 'top',
+           escape = FALSE,
+           options = list(pageLength = 25))
+```

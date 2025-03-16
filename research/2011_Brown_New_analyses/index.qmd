@@ -1,0 +1,19 @@
+---
+title: "New Analyses of MIC 90 Data to Aid Antibacterial Drug Discovery"
+year:  2011 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Brown MF, Gupta RR, Kuhn M, Flanagan ME, Mitton-Fry M (2011). “New analyses of MIC 90 data to aid antibacterial drug discovery.” _MedChemComm_, *2*(8), 735-742.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=New+analyses+of+MIC+90+data+to+aid+antibacterial+drug+discovery2011&btnG=) 
+
+- DOI: [10.1039/C1MD00095K](https://doi.org/10.1039/C1MD00095K)
+
+
+## Abstract
+
+In this work we present a number of statistical and visualization methods derived from MIC90 data designed to aid decision-making in antibacterial drug discovery research. A statistical method known as bootstrapping was applied to MIC90 raw data to uncover data trends and a metric termed Net Percent Superior (NPS) was developed to capture a strain-by-strain analysis of analogs to enable rank-ordering of similar compounds. We also present novel methods of reporting the data using a variety of visualization techniques. Furthermore, the work was cross-validated using experimental results generated with siderophore-conjugated monocarbam analogs to demonstrate the effectiveness of the various parameters and visualization techniques. The methods reported herein have been incorporated in a Scitegic Pipeline Pilot protocol to enable facile, automated generation of MIC90 analyses from experimental raw data to aid prospective medicinal chemistry design as well as retrospective analyses.

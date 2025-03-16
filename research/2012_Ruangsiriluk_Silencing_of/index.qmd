@@ -1,0 +1,20 @@
+---
+title: "Silencing of Enzymes Involved in Ceramide Biosynthesis Causes Distinct Global Alterations of Lipid Homeostasis and Gene Expression"
+year:  2012 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Ruangsiriluk W, Grosskurth SE, Ziemek D, Kuhn M, des Etages SG, Francone OL (2012). “Silencing of enzymes involved in ceramide biosynthesis causes distinct global alterations of lipid homeostasis and gene expression.” _Journal of lipid research_, *53*(8), 1459-1471.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Silencing+of+enzymes+involved+in+ceramide+biosynthesis+causes+distinct+global+alterations+of+lipid+homeostasis+and+gene+expression2012&btnG=) 
+
+- DOI: [10.1194/jlr.M020941](https://doi.org/10.1194/jlr.M020941)
+
+
+## Abstract
+
+Dysregulation of ceramide synthesis has been associated with metabolic disorders such as atherosclerosis and diabetes. We examined the changes in lipid homeostasis and gene expression in Huh7 hepatocytes when the synthesis of ceramide is perturbed by knocking down serine pal mitoyltransferase subunits 1, 2, and 3 (SPTLC123) or dihydroceramide desaturase 1 (DEGS1). Although knocking down all SPTLC subunits is necessary to reduce total ceramides significantly, depleting DEGS1 is sufficient to produce a similar outcome. Lipidomic analysis of distribution and speciation of multiple lipid classes indicates an increase in phospholipids in SPTLC123-silenced cells, whereas DEGS1 depletion leads to the accumulation of sphingolipid intermediates, free fatty acids, and diacylglycerol. When cer amide synthesis is disrupted, the transcriptional profiles indicate inhibition in biosynthetic processes, downregulation of genes involved in general endomembrane traffi cking, and upregulation of endocytosis and endosomal recycling. SPTLC123 silencing strongly affects the expression of genes involved with lipid metabolism. Changes in amino acid, sugar, and nucleotide metabolism, as well as vesicle trafficking between organelles, are more prominent in DEGS1-silenced cells. These studies are the first to provide a direct and comprehensive understanding at the lipidomic and transcriptomic levels of how Huh7 hepatocytes respond to changes in the inhibition of ceramide synthesis.
+

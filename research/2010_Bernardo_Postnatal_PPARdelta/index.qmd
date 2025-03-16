@@ -1,0 +1,28 @@
+---
+title: "Postnatal PPARδ Activation and Myostatin Inhibition Exert Distinct yet Complimentary Effects on the Metabolic Profile of Obese Insulin-Resistant Mice"
+year:  2010 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Bernardo BL, Wachtmann TS, Cosgrove PG, Kuhn M, Opsahl AC, Judkins KM, Freeman TB, Hadcock JR, LeBrasseur NK (2010). “Postnatal PPARδ activation and myostatin inhibition exert distinct yet complimentary effects on the metabolic profile of obese insulin-resistant mice.” _PLoS one_, *5*(6), e11307.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Postnatal+PPARdelta+activation+and+myostatin+inhibition+exert+distinct+yet+complimentary+effects+on+the+metabolic+profile+of+obese+insulin+resistant+mice2010&btnG=) 
+
+- DOI: [10.1371/journal.pone.0011307](https://doi.org/10.1371/journal.pone.0011307)
+
+## Abstract
+
+### Background
+
+Interventions for T2DM have in part aimed to mimic exercise. Here, we have compared the independent and combined effects of a PPARδ agonist and endurance training mimetic (GW501516) and a myostatin antibody and resistance training mimetic (PF-879) on metabolic and performance outcomes in obese insulin resistant mice.
+
+### Methodology/Principal Findings
+
+Male ob/ob mice were treated for 6 weeks with vehicle, GW501516, PF-879, or GW501516 in combination with PF-879. The effects of the interventions on body composition, glucose homeostasis, glucose tolerance, energy expenditure, exercise capacity and metabolic gene expression were compared at the end of study. GW501516 attenuated body weight and fat mass accumulation and increased the expression of genes of oxidative metabolism. In contrast, PF-879 increased body weight by driving muscle growth and altered the expression of genes involved in insulin signaling and glucose metabolism. Despite their differences, both interventions alone improved glucose homeostasis. Moreover, GW501516 more effectively improved serum lipids, and PF-879 uniquely increased energy expenditure, exercise capacity and adiponectin levels. When combined the robust effects of GW501516 and/or PF-879 on body weight, adiposity, muscle mass, glycemia, serum lipids, energy expenditure and exercise capacity were highly conserved.
+
+### Conclusions/Significance
+
+The data, for the first time, demonstrate postnatal inhibition of myostatin not only promotes gains in muscle mass similar to resistance training,but improves metabolic homeostasis. In several instances, these effects were either distinct from or complimentary to those of GW501516. The data further suggest that strategies to increase muscle mass, and not necessarily oxidative capacity, may effectively counter insulin resistance and T2DM.

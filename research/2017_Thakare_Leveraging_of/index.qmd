@@ -1,0 +1,18 @@
+---
+title: "Leveraging of Rifampicin-Dosed Cynomolgus Monkeys to Identify Bile Acid 3-O-Sulfate Conjugates as Potential Novel Biomarkers for Organic Anion-Transporting Polypeptides"
+year:  2017 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Thakare R, Gao H, Kosa RE, Bi Y, Varma MV, Cerny MA, Sharma R, Kuhn M, Huang B, Liu Y, others (2017). “Leveraging of rifampicin-dosed cynomolgus monkeys to identify bile acid 3-O-sulfate conjugates as potential novel biomarkers for organic anion-transporting polypeptides.” _Drug Metabolism and Disposition_, *45*(7), 721-733.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Leveraging+of+rifampicin+dosed+cynomolgus+monkeys+to+identify+bile+acid+3+O+sulfate+conjugates+as+potential+novel+biomarkers+for+organic+anion+transporting+polypeptides2017&btnG=) 
+
+- DOI: [10.1124/dmd.117.075275](https://doi.org/10.1124/dmd.117.075275)
+
+## Abstract
+
+In the search for novel bile acid (BA) biomarkers of liver organic anion-transporting polypeptides (OATPs), cynomolgus monkeys received oral rifampicin (RIF) at four dose levels (1, 3, 10, and 30 mg/kg) that generated plasma-free Cmax values (0.06, 0.66, 2.57, and 7.79 µM, respectively) spanning the reported in vitro IC50 values for OATP1B1 and OATP1B3 (≤1.7 μM). As expected, the area under the plasma concentration-time curve (AUC) of an OATP probe drug (i.v. 2H4-pitavastatin, 0.2 mg/kg) was increased 1.2-, 2.4-, 3.8-, and 4.5-fold, respectively. Plasma of RIF-dosed cynomolgus monkeys was subjected to a liquid chromatography-tandem mass spectrometry method that supported the analysis of 30 different BAs. Monkey urine was profiled, and we also determined that the impact of RIF on BA renal clearance was minimal. Although sulfated BAs comprised only 1% of the plasma BA pool, a robust RIF dose response (maximal ≥50-fold increase in plasma AUC) was observed for the sulfates of five BAs [glycodeoxycholate (GDCA-S), glycochenodeoxycholate (GCDCA-S), taurochenodeoxycholate, deoxycholate (DCA-S), and taurodeoxycholate (TDCA-S)]. In vitro, RIF (≤100 μM) did not inhibit cynomolgus monkey liver cytosol-catalyzed BA sulfation and cynomolgus monkey hepatocyte-mediated uptake of representative sulfated BAs (GDCA-S, GCDCA-S, DCA-S, and TDCA-S) was sodium-independent and inhibited (≥70%) by RIF (5 μM); uptake of taurocholic acid was sensitive to sodium removal (74% decrease) and relatively refractory to RIF (≤21% inhibition). We concluded that sulfated BAs may serve as sensitive biomarkers of cynomolgus monkey OATPs and that exploration of their utility as circulating human OATP biomarkers is warranted.

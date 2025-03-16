@@ -1,0 +1,13 @@
+---
+title: Research
+listing: 
+ type: default
+ page-size: 80
+ sort: "date asc"
+ filter-ui: true
+ categories: true
+ contents:
+  - "*.qmd"
+---
+
+My research has focused chiefly on estimation problems. Most publications concern statistical experimental design, machine learning/predictive modeling, creating high-quality data analysis software, and/or drug discovery. 

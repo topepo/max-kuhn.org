@@ -1,0 +1,19 @@
+---
+title: "Ridge Analysis With Noise Variables"
+year:  2005 
+image: fig.jpg
+categories:
+  - article
+  - experimental design  
+---
+
+Peterson J, Kuhn M (2005). “Ridge Analysis With Noise Variables.” _Technometrics_, *47*, 274-283.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Confidence+Intervals+for+Ridge+Analysis+in+Experiments+with+Noise+Factors2005&btnG=) 
+
+- DOI: [10.1198/004017005000000076](https://doi.org/10.1198/004017005000000076)
+
+## Abstract
+
+Ridge analysis is a graphical and inferential method for exploring optimum factor levels of a response surface at fixed distances from the center of the experimental region. This article proposes an approach to doing a ridge analysis for optimizing a response surface in the presence of noise variables. We extend the ridge analysis method of Peterson to include some of the factors as noise variables. This approach allows an investigator to explore factor combinations that lower the mean squared error about a target value, while at the same time keeping track of how much the mean response differs from the target value. It also allows an investigator to compute a simultaneous confidence band about the root mean squared error about a target value. This provides a guidance band to aid in determining optimal levels of operation. A variety of factor constraints can be imposed, including those found in mixture experiments. In addition, we propose a modification of our approach that can be used for “larger is better” or “smaller is better” experiments. We illustrate the proposed method using two examples, one of which is a mixture experiment.
+

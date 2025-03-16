@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+
+//Fonts
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;300&display=swap');
+
+$whiteblue:             #fcfefe;
+$muted-black:           #595959;
+$tangerine:             #F28500;
+$scarlet:               #B32800;
+$brewer-set1-blue:      #377EB8;
+$blue-screen-o-death:   #0031b3;
+
+// Base document colors
+$body-bg:    $whiteblue;          // main page background
+$sidebar-bg: $whiteblue;          // LHS contents background
+$link-color: $brewer-set1-blue;
+
+.csl-entry a {
+  color: $muted-black;
+}

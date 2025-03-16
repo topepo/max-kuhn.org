@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Max Kuhn"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - href: experience.qmd
+        text: Experience
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+
+format:
+  html:
+    theme: [simplex, kuhn.scss]
+    mainfont: 'Libre Franklin'
+

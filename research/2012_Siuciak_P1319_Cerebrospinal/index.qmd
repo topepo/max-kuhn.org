@@ -1,0 +1,32 @@
+---
+title: "P1-319: Cerebrospinal Fluid (CSF) Biomarkers in Alzheimer's Disease (AD), Mild Cognitively Impaired (MCI) and Age-Matched Healthy Controls (HC) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) Cohort"
+year:  2012 
+categories:
+  - article
+  - drug discovery
+---
+
+Siuciak J, Pickering EH, Immermann F, Kuhn M, Shaw L, Potter W, (ADNI) ADNI, for NIH Biomarkers Consortium CSF Proteomics Project Team F (2012). “P1-319: Cerebrospinal fluid (CSF) biomarkers in Alzheimer's disease (AD), mild cognitively impaired (MCI) and age-matched healthy controls (HC) from the Alzheimer's Disease Neuroimaging Initiative (ADNI) cohort.” _Alzheimer's & Dementia_, *8*(4S\_Part\_6), P216-P217.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P1+319+Cerebrospinal+fluid+CSF+biomarkers+in+Alzheimer+s+disease+AD+mild+cognitively+impaired+MCI+and+age+matched+healthy+controls+HC+from+the+Alzheimer+s+Disease+Neuroimaging+Initiative+ADNI+cohort2012&btnG=) 
+
+- DOI: [10.1016/j.jalz.2012.05.2005](https://doi.org/10.1016/j.jalz.2012.05.2005)
+
+
+## Abstract
+
+### Background
+
+We utilized a commercially available proteomic multiplex panel to explore group differences in cerebrospinal fluid (CSF) from the ADNI cohort.
+
+### Methods
+
+CSF baseline ADNI samples (327) were assessed in a multiplex luminex assay (N = 92 HC, N = 69 AD, N = 149 amnestic MCI, N = 1 unknown diagnosis), plus 16 technical replicates). Analytes with more than 10% missing data were excluded from the analysis; raw data were normalized with missing and outlier data imputed. Group comparisons for each analyte were adjusted for age, gender and ApoE genotype.
+
+### Results
+
+Of the 159 analytes, 83 were adequately quantifiable. Both AD and MCI groups showed changes relative to HC for some analytes after controlling for age, gender and ApoE4 status. Four analytes were significantly increased across groups at p < 0.01 (ANCOVA): Fatty Acid Binding Protein (FABP), Pancreatic Polypeptide (PPP), Prolactin (PRL), and N-terminal prohormone of brain natriuretic peptide (NT-proBNP). In addition, CD40 antigen (P < 0.01), Cancer Antigen 19-9 (CA-19-9) (P <0.02) and Vascular Endothelial Growth Factor (VEGF) (P <0.01) were significantly decreased in AD vs HC. Age and/or gender had a highly significant effect on a substantial proportion (71%) of the analytes.
+
+### Conclusions
+
+These results agree with previous reports of elevations in FABP, PPP, NT-proBNP and decreases in VEGF in the CSF of patients with AD vs HC. PRL has been implicated in published reports, however, the current study suggests a stronger relationship. Decreases in CA-19-9 and CD40 antigen have not been previously reported in CSF of AD vs HC, and interestingly were not observed in MCI vs HC. No other significant differences were observed in the wider range of measured peptides that hypothetically might have been altered in a neurotoxic process accompanied by inflammation. Notably, we found a major influence of age (even within a relatively narrow range of 56 - 90 years of age) and/or gender on many analytes. These findings both extend our knowledge of disease associated alterations in AD, and reinforce the importance of accounting for age, gender and genotype before attributing differences to a clinical diagnosis.

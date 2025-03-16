@@ -1,0 +1,21 @@
+---
+title: "Quantitative-Structure Activity Relationship Modeling and Cheminformatics"
+year:  2016 
+image: fig.jpg
+categories:
+  - book chapter
+  - drug discovery
+  - machine learning
+---
+
+Kuhn M (2016). “Quantitative-Structure Activity Relationship Modeling and Cheminformatics.” In _Nonclinical Statistics for Pharmaceutical and Biotechnology Industries_, volume 1, 141-155. Springer.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Quantitative+Structure+Activity+Relationship+Modeling+and+Cheminformatics2016&btnG=) 
+
+- DOI: [10.1007/978-3-319-23558-5_6](https://doi.org/10.1007/978-3-319-23558-5_6)
+
+
+## Abstract
+
+This chapter describes quantitative tools for analyzing chemical structures and relating them to assay results using statistical models. The focus is on prediction of new compounds as well as the exploratory analysis and data mining of large compound databases. Other issues related to how these analytical methods are used are discussed.
+

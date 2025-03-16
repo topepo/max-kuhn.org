@@ -1,0 +1,32 @@
+---
+title: "P3-380: Dendritic Spine Density Deficits in the Hippocampal CA1 Region of Young Tg2576 Mice are Ameliorated with the PDE9A Inhibitor PF-04447943"
+year:  2010 
+categories:
+  - article
+  - drug discovery
+---
+
+Kleiman RJ, Lanz TA, Finley JE, Bove SE, Majchrzak MJ, Becker SL, Carvajal-Gonzales S, Kuhn AM, Wood KM, Mariga A, others (2010). “P3-380: Dendritic spine density deficits in the hippocampal CA1 region of young Tg2576 mice are ameliorated with the PDE9A inhibitor PF-04447943.” _Alzheimer's & Dementia_, *6*, S563-S564.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P3+380+Dendritic+spine+density+deficits+in+the+hippocampal+CA1+region+of+young+Tg2576+mice+are+ameliorated+with+the+PDE9A+inhibitor+PF+044479432010&btnG=) 
+
+- DOI: [10.1016/j.jalz.2010.05.1922](https://doi.org/10.1016/j.jalz.2010.05.1922)
+
+
+## Abstract
+
+### Background
+
+Many forms of synaptic plasticity are critically dependent upon production of cGMP to trigger activity-dependent increases in synaptic size and strength. Phosphodiesterase 9A (PDE9A) is a high affinity, cGMP-specific phosphodiesterase with widespread distribution in the central nervous system. Inhibition of PDE9A results in significant accumulation of cGMP in brain tissue and CSF of rodents and also increases CSF cGMP in human volunteers (Schmidt et al., 2009 ICAD; Nicholas et al 2009 ICAD). We hypothesize that chronic exposure to a PDE9 inhibitor, and the associated elevations in brain cGMP could provide a therapeutic benefit to vulnerable synapses chronically exposed to Abeta in transgenic amyloid overexpressing mice.
+
+### Methods
+
+A total of N = 20 animals per group of 4 month old Tg2576+ and non-transgenic animals were implanted with Alzet osmotic minipumps to deliver vehicle or the PDE9A inhibitor PF-4447943, currently in clinical trials for the treatment of mild to moderate Alzheimer's Disease. Neurobehavioral outcomes were measured as conditioned fear response after 30 days of treatment and subsequently the brains were harvested for measurement of Abeta, gene expression profiling or synaptic density as assessed by Golgi staining of dendrites.
+
+### Results
+
+Dendritic spine density on apical dendrites of CA1 neurons exhibited a small but significant deficit in the density of dendritic spines in vehicle treated transgenic animals as compared to non-transgenic animals. This deficit was ameliorated by 30 days of exposure to PF-04447943. No significant drug effect was observed in the non-transgenic animals. No significant effects of drug treatment were observed on Abeta levels in Tg2576 mice. Behavioral analysis of transgenic animals showed deficits in fear conditioning as early as 2 months of age, and therefore were considered unlikely to be due to the accumulation of oligomeric Abeta. These deficits were not affected by drug treatment. Transcriptional profiles of animals treated with drug compared to vehicle showed evidence of regulation of pathways related to synaptic plasticity and remodeling of the dendritic cytoskeleton, consistent with stabilization of vulnerable spine structure.
+
+### Conclusions
+
+This data supports the hypothesis that PDE9 inhibition can stabilize vulnerable synapses early in the Alzheimer's disease process.

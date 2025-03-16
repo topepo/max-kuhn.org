@@ -1,0 +1,12 @@
+---
+title: "Applied Machine Learning for Tabular Data"
+year:  2024 
+image: fig.jpg
+categories:
+  - book
+  - machine learning
+---
+
+Kuhn M, Johnson K (2024). _Applied Machine Learning for Tabular Data_. Unpublished, in-progress
+
+Full content on-line at [`https://aml4td.org/`](https://aml4td.org/)

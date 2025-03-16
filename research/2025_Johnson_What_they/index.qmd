@@ -1,0 +1,23 @@
+---
+title: "What They Forgot to Tell you About Machine Learning with an Application to Pharmaceutical Manufacturing"
+year:  2025 
+image: wtf.jpg
+categories:
+  - article
+  - drug discovery
+  - machine learning
+---
+
+Johnson K, Kuhn M (2025). “What they forgot to tell you about machine learning with an application to pharmaceutical manufacturing.” _Pharmaceutical Statistics_, *24*(1), e2366.
+
+- Pre-print at [`https://kjell-stattenacity.github.io/Tutorial/`](https://kjell-stattenacity.github.io/Tutorial/)
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=What+they+forgot+to+tell+you+about+machine+learning+with+an+application+to+pharmaceutical+manufacturing2025&btnG=) 
+
+- DOI: [10.1002/pst.2366](https://doi.org/10.1002/pst.2366)
+
+
+## Abstract
+
+Predictive models (a.k.a. machine learning models) are ubiquitous in all stages of drug research, safety, development, manufacturing, and marketing. The results of these models are used inside and outside of pharmaceutical companies for the purpose of understanding scientific processes and for predicting characteristics of new samples or patients. While there are many resources that describe such models, there are few that explain how to develop a robust model that extracts the highest possible performance from the available data, especially in support of pharmaceutical applications. This tutorial will describe pitfalls and best practices for developing and validating predictive models with a specific application to a monitoring a pharmaceutical manufacturing process. The pitfalls and best practices will be highlighted to call attention to specific points that are not generally discussed in other resources.
+

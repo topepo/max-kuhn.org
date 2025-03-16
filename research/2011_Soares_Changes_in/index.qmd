@@ -1,0 +1,33 @@
+---
+title: "Changes in Plasma Based Biomarkers in Alzheimer's Disease, Mild Cognitively Impaired and Aged Matched Normal Controls from the ADNI Cohort"
+year:  2011 
+categories:
+  - article
+  - drug discovery
+---
+
+Soares H, Potter W, Immermann F, Pickering E, Kuhn M, Shera D, Zagouras P, Swenson F, Wan H, Ferm M, others (2011). “Changes in plasma based biomarkers in Alzheimer's disease, mild cognitively impaired and aged matched normal controls from the ADNI cohort.” _Alzheimer's & Dementia_, *7*(4), S329-S330.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Changes+in+plasma+based+biomarkers+in+Alzheimer+s+disease+mild+cognitively+impaired+and+aged+matched+normal+controls+from+the+ADNI+cohort2011&btnG=) 
+
+- DOI: [10.1016/j.jalz.2011.05.960](https://doi.org/10.1016/j.jalz.2011.05.960)
+
+
+## Abstract
+
+### Background
+
+Biomarkers are emerging as critical tools to identify various disease stages and pathological subtypes in Alzheimer's disease (AD) The present study utilizes a multiplex panel to examine pathological signatures in plasma from the AD Neuroimaging Initiative (ADNI) cohort.
+
+### Methods
+
+Plasma samples (baseline/1 year) from normal controls (NC, 58/54), Alzheimer's disease (AD, 112/97) and mild cognitive impairment (MCI, 396/345) subjects in the ADNI cohort were analyzed in a multiplex Luminex assay representing 190 analytes. Plasma was obtained in the morning following an overnight fast and samples were processed within 120 min of collection. Selection of the AD and NC subset was based on availability of both cerebrospinal fluid (CSF) and amyloid imaging data. In addition, selection of NC was based upon CSF ABeta42 levels above the median distribution for NC. Analytes with more than 10% missing data were excluded from the analysis and raw data were normalized with missing and outlier data imputed. Group comparisons for each analyte were adjusted for age, gender and ApoE allele status. Multivariate analyses were completed to assess multiple discriminatory potential between AD subjects, MCI subjects at risk of progressing, and NC.
+
+### Results
+
+Of the 190 analytes, 146 passed quality control criteria. Abnormalities were observed in both AD and MCI groups in a number of apolipoproteins (e.g. ApoE), acute phase proteins (e.g. alpha-1 microglobulin), pancreatic enzymes (e.g. pancreatic polypeptide) and cardiovascular/inflammatory markers (e.g. brain natriuretic peptide, Tenascin C). In addition, ApoE and CRP plasma levels were highest in ApoE2/E2 and lowest in E4/E4 subjects, irrespective of diagnosis. A subset of cytokines were also elevated in E4 homozygotes suggesting a plasma based phenotype for ApoE allelic status.
+
+### Conclusions
+
+Analysis of plasma patterns in the ADNI cohort suggests some abnormalities in apolipoprotein, inflammatory markers, and pancreatic-metabolic profiles in AD subjects and in subjects at risk of progressing to dementia. Phenotypic blood based patterns were also noted based upon ApoE allele status, suggesting an endophenotype for ApoE. In summary, plasma signatures can provide insight into the heterogeneity underlying AD pathology and may serve as a screening tool for identifying subjects in early stages of the disease.
+

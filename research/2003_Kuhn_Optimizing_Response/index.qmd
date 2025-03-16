@@ -1,0 +1,20 @@
+---
+title: "Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions"
+year:  2003 
+image: fig.jpg
+categories:
+  - article
+  - experimental design  
+---
+
+Kuhn AM (2003). “Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions.” _Quality Engineering_, *15*(3), 419-426.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Optimizing+Response+Surface+Experiments+with+Noise+Factors+Using+Confidence+Regions2003&btnG=) 
+
+- DOI: [10.1081/QEN-120018041](https://doi.org/10.1081/QEN-120018041)
+
+
+## Abstract
+
+One way to improve quality is to reduce the impact of variation. Taguchi emphasized that quality is improved by minimizing the effect of variables that are difficult or impossible to control. In robust design experiments, settings of design variables that are controllable are sought that are insensitive to the effects of the noise factors. A summary of methods for using confidence statements in the optimization of a product or process during the design phase is given. In addition, confidence regions for determining control factor settings that optimize the mean and variance simultaneously are discussed. An example is used to illustrate the advantages of characterizing the uncertainty in the optimal factor settings.
+

@@ -1,0 +1,21 @@
+---
+title: "The Use of the R Language for Medicinal Chemistry Applications"
+year:  2012 
+categories:
+  - article
+  - software
+  - drug discovery
+  - machine learning
+---
+
+Mente S, Kuhn M (2012). “The use of the R language for medicinal chemistry applications.” _Current Topics in Medicinal Chemistry_, *12*(18), 1957-1964.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=The+use+of+the+R+language+for+medicinal+chemistry+applications2012&btnG=) 
+
+- DOI: [10.2174/156802612804910322](https://doi.org/10.2174/156802612804910322)
+
+
+## Abstract
+
+This manuscript serves as a review of how the R language has been used in the last decade to address problems related to medicinal chemistry design. This includes the use of the R language for chemoinformatics applications and interfaces, as well as statistical modeling for ADMET and potency endpoints. Additionally, a few examples of R code are provided to demonstrate the ability of this language to make available cutting-edge statistical analysis to the medicinal chemistry design community.
+

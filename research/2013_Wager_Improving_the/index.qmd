@@ -1,0 +1,24 @@
+---
+title: "Improving the Odds of Success in Drug Discovery: Choosing the Best Compounds for in Vivo Toxicology Studies"
+year:  2013 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Wager TT, Kormos BL, Brady JT, Will Y, Aleo MD, Stedman DB, Kuhn M,
+Chandrasekaran RY (2013). “Improving the odds of success in drug
+discovery: choosing the best compounds for in vivo toxicology studies.”
+_Journal of Medicinal Chemistry_, *56*(23), 9771-9779.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Improving+the+odds+of+success+in+drug+discovery+choosing+the+best+compounds+for+in+vivo+toxicology+studies2013&btnG=) 
+
+- DOI: [10.48550/arXiv.2303.07334](https://doi.org/10.48550/arXiv.2303.07334)
+
+
+## Abstract
+
+Evaluating models fit to data with internal spatial structure requires specific cross-validation (CV) approaches, because randomly selecting assessment data may produce assessment sets that are not truly independent of data used to train the model. Many spatial CV methodologies have been proposed to address this by forcing models to extrapolate spatially when predicting the assessment set. However, to date there exists little guidance on which methods yield the most accurate estimates of model performance.
+
+We conducted simulations to compare model performance estimates produced by five common CV methods fit to spatially structured data. We found spatial CV approaches generally improved upon resubstitution and V-fold CV estimates, particularly when approaches which combined assessment sets of spatially conjunct observations with spatial exclusion buffers. To facilitate use of these techniques, we introduce the `spatialsample` package which provides tooling for performing spatial CV as part of the broader tidymodels modeling framework.

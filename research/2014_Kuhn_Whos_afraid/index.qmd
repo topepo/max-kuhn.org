@@ -1,0 +1,20 @@
+---
+title: "Who's Afraid of the Big Black Box?: Statisticians' Vital Role in Big Data and Predictive Modelling"
+image: bbb.png
+year:  2014 
+categories:
+  - article
+  - machine learning
+---
+
+Kuhn M, Johnson K (2014). “Who's afraid of the big black box?: Statisticians' vital role in big data and predictive modelling.” _Significance_, *11*(3), 35-37.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Who+s+afraid+of+the+big+black+box+Statisticians+vital+role+in+big+data+and+predictive+modelling2014&btnG=) 
+
+- DOI: [10.1111/j.1740-9713.2014.00753.x](https://doi.org/10.1111/j.1740-9713.2014.00753.x)
+
+
+## Abstract
+
+What goes on inside the black-box algorithms that turn big data into something useful? The answer, say Max Kuhn and Kjell Johnson, is statistical – so statisticians should come to the big data party.
+

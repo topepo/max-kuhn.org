@@ -1,0 +1,20 @@
+---
+title: "The Advantages of Describing Covalent Inhibitor in Vitro Potencies by IC50 at a Fixed Time Point. IC50 Determination of Covalent Inhibitors Provides Meaningful Data to Medicinal Chemistry for SAR Optimization"
+year:  2021 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Thorarensen A, Balbo P, Banker ME, Czerwinski RM, Kuhn M, Maurer TS, Telliez J, Vincent F, Wittwer AJ (2021). “The advantages of describing covalent inhibitor in vitro potencies by IC50 at a fixed time point. IC50 determination of covalent inhibitors provides meaningful data to medicinal chemistry for SAR optimization.” _Bioorganic & Medicinal Chemistry_, *29*, 115865.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=The+advantages+of+describing+covalent+inhibitor+in+vitro+potencies+by+IC50+at+a+fixed+time+point+IC50+determination+of+covalent+inhibitors+provides+meaningful+data+to+medicinal+chemistry+for+SAR+optimization2021&btnG=) 
+
+- DOI: [10.1016/j.bmc.2020.115865](https://doi.org/10.1016/j.bmc.2020.115865)
+
+
+## Abstract
+
+Recent years have seen a resurgence in drug discovery efforts aimed at the identification of covalent inhibitors which has led to an explosion of literature reports in this area and most importantly new approved therapies. These reports and breakthroughs highlight the significant investments made across the industry in SAR campaigns to optimize inhibitors. The potency of covalent inhibitors is generally considered to be more accurately described by the time-independent kinetic parameter kinact/Ki rather than a by a simple IC50 since the latter is a time-dependent parameter. Enzyme substrate concentrations are an additional important factor to consider when attempting to translate parameters derived from enzymology experiments to phenotypic behavior in a physiologically relevant cell-based system. Theoretical and experimental investigations into the relationship between IC50, time, substrate concentration and Kinact/Ki provided us with an effective approach to provide meaningful data for SAR optimization. The data we generated for our JAK3 irreversible covalent inhibitor program using IC50 values provided by enzyme assays with long incubations (>1h) coupled with physiological substrate concentration provided the medicinal chemist with optimal information in a rapid and efficient manner. We further document the wide applicability of this method by applying it to other enzymes systems where we have run covalent inhibitor programs.
+

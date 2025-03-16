@@ -1,0 +1,28 @@
+---
+title: "Plasma Multianalyte Profiling in Mild Cognitive Impairment and Alzheimer Disease"
+year:  2012 
+categories:
+  - article
+  - drug discovery
+---
+
+Hu WT, Holtzman DM, Fagan AM, Shaw LM, Perrin R, Arnold SE, Grossman M, Xiong C, Craig-Schapiro R, Clark CM, others (2012). “Plasma multianalyte profiling in mild cognitive impairment and Alzheimer disease.” _Neurology_, *79*(9), 897-905.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Plasma+multianalyte+profiling+in+mild+cognitive+impairment+and+Alzheimer+disease2012&btnG=) 
+
+- DOI: [10.1212/WNL.0b013e318266fa70](https://doi.org/10.1212/WNL.0b013e318266fa70)
+
+
+## Abstract
+
+### Objectives:
+
+While plasma biomarkers have been proposed to aid in the clinical diagnosis of Alzheimer disease (AD), few biomarkers have been validated in independent patient cohorts. Here we aim to determine plasma biomarkers associated with AD in 2 independent cohorts and validate the findings in the multicenter Alzheimer's Disease Neuroimaging Initiative (ADNI).
+
+### Methods:
+
+Using a targeted proteomic approach, we measured levels of 190 plasma proteins and peptides in 600 participants from 2 independent centers (University of Pennsylvania, Philadelphia; Washington University, St. Louis, MO), and identified 17 analytes associated with the diagnosis of very mild dementia/mild cognitive impairment (MCI) or AD. Four analytes (apoE, B-type natriuretic peptide, C-reactive protein, pancreatic polypeptide) were also found to be altered in clinical MCI/AD in the ADNI cohort (n = 566). Regression analysis showed CSF Aβ42 levels and t-tau/Aβ42 ratios to correlate with the number of APOE4 alleles and plasma levels of B-type natriuretic peptide and pancreatic polypeptide.
+
+### Conclusion:
+
+Four plasma analytes were consistently associated with the diagnosis of very mild dementia/MCI/AD in 3 independent clinical cohorts. These plasma biomarkers may predict underlying AD through their association with CSF AD biomarkers, and the association between plasma and CSF amyloid biomarkers needs to be confirmed in a prospective study.

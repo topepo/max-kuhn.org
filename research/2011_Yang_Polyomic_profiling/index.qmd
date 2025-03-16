@@ -1,0 +1,29 @@
+---
+title: "Polyomic Profiling Reveals Significant Hepatic Metabolic Alterations in Glucagon-Receptor (GCGR) Knockout Mice: Implications on Anti-Glucagon Therapies for Diabetes"
+year:  2011 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Yang J, MacDougall ML, McDowell MT, Xi L, Wei R, Zavadoski WJ, Molloy MP, Baker JD, Kuhn M, Cabrera O, others (2011). “Polyomic profiling reveals significant hepatic metabolic alterations in glucagon-receptor (GCGR) knockout mice: implications on anti-glucagon therapies for diabetes.” _BMC genomics_, *12*, 1-14.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Polyomic+profiling+reveals+significant+hepatic+metabolic+alterations+in+glucagon+receptor+GCGR+knockout+mice+implications+on+anti+glucagon+therapies+for+diabetes2011&btnG=) 
+
+- DOI: [10.1186/1471-2164-12-281](https://doi.org/10.1186/1471-2164-12-281)
+
+
+## Abstract
+
+### Background
+
+Glucagon is an important hormone in the regulation of glucose homeostasis, particularly in the maintenance of euglycemia and prevention of hypoglycemia. In type 2 Diabetes Mellitus (T2DM), glucagon levels are elevated in both the fasted and postprandial states, which contributes to inappropriate hyperglycemia through excessive hepatic glucose production. Efforts to discover and evaluate glucagon receptor antagonists for the treatment of T2DM have been ongoing for approximately two decades, with the challenge being to identify an agent with appropriate pharmaceutical properties and efficacy relative to potential side effects. We sought to determine the hepatic & systemic consequence of full glucagon receptor antagonism through the study of the glucagon receptor knock-out mouse (Gcgr-/-) compared to wild-type littermates.
+
+### Results
+
+Liver transcriptomics was performed using Affymetric expression array profiling, and liver proteomics was performed by iTRAQ global protein analysis. To complement the transcriptomic and proteomic analyses, we also conducted metabolite profiling (~200 analytes) using mass spectrometry in plasma. Overall, there was excellent concordance (R = 0.88) for changes associated with receptor knock-out between the transcript and protein analysis. Pathway analysis tools were used to map the metabolic processes in liver altered by glucagon receptor ablation, the most notable being significant down-regulation of gluconeogenesis, amino acid catabolism, and fatty acid oxidation processes, with significant up-regulation of glycolysis, fatty acid synthesis, and cholesterol biosynthetic processes. These changes at the level of the liver were manifested through an altered plasma metabolite profile in the receptor knock-out mice, e.g. decreased glucose and glucose-derived metabolites, and increased amino acids, cholesterol, and bile acid levels.
+
+### Conclusions
+
+In sum, the results of this study suggest that the complete ablation of hepatic glucagon receptor function results in major metabolic alterations in the liver, which, while promoting improved glycemic control, may be associated with adverse lipid changes.

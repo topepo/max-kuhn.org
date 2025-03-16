@@ -1,0 +1,19 @@
+---
+title: "Active Glucagon-Like Peptide 1 Quantitation in Human Plasma: a Comparison of Multiple Ligand Binding Assay Platforms"
+year:  2014 
+categories:
+  - article
+  - drug discovery
+---
+
+Fraser S, Dysinger M, Soderstrom C, Kuhn M, Durham R (2014). “Active glucagon-like peptide 1 quantitation in human plasma: a comparison of multiple ligand binding assay platforms.” _Journal of Immunological Methods_, *407*, 76-81.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Active+glucagon+like+peptide+1+quantitation+in+human+plasma+a+comparison+of+multiple+ligand+binding+assay+platforms2014&btnG=) 
+
+- DOI: [10.1016/j.jim.2014.03.025](https://doi.org/10.1016/j.jim.2014.03.025)
+
+
+## Abstract
+
+There are a wide variety of ligand binding assay platforms available for implementation in present day bioanalytical laboratories. Selecting the platform that best suits a particular project's needs is highly dependent upon multiple assay characteristics. The active form of glucagon-like protein (GLP-1) is a biomarker of interest for type 2 diabetes (T2DM), and therefore a common target for quantitation. Previous projects requiring active GLP-1 measurements involved the use of a labor intensive ELISA, spurring an investigation towards other potential assay platforms. To that end, four separate ligand binding assay formats (standard ELISA, electrochemiluminescence, Gyrolab, and Singulex) were evaluated. The platforms were compared for numerous assay parameters including dynamic range, sample volume requirements, throughput, and cost. Additionally, thirty individual donor plasmas were run with each assay as representative study samples. Although our evaluation did not show any platform that was better than others in all assay characteristics, there was one that was best in sensitivity (Singulex) and one that was best in throughput and sample volume requirements (Gyrolab). The lack of a technology that was best in all categories underscores the importance of due diligence when selecting an assay platform; there are no silver bullets, and one must take into account what is necessary for project needs and the intended use of the data.
+

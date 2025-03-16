@@ -1,0 +1,19 @@
+---
+title: "Downstream Effects of Striatal-Enriched Protein Tyrosine Phosphatase Reduction on RNA Expression in Vivo and in Vitro"
+year:  2014 
+categories:
+  - article
+  - drug discovery
+---
+
+Reinhart V, Nguyen T, Gerwien Jr R, Kuhn M, Yates P, Lanz T (2014). “Downstream effects of striatal-enriched protein tyrosine phosphatase reduction on RNA expression in vivo and in vitro.” _Neuroscience_, *278*, 62-69.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Downstream+effects+of+striatal+enriched+protein+tyrosine+phosphatase+reduction+on+RNA+expression+in+vivo+and+in+vitro2014&btnG=) 
+
+- DOI: [10.1016/j.neuroscience.2014.08.002](https://doi.org/10.1016/j.neuroscience.2014.08.002)
+
+
+## Abstract
+
+Striatal-enriched protein tyrosine phosphatase (STEP) is a brain-specific tyrosine phosphatase that has been shown to de-phosphorylate several key neuronal signaling proteins, including kinases (extracellular signal-regulated kinase (ERK1/2), FYN, PYK2) and glutamate receptor subunits (N-methyl-d-aspartate receptor subtype 2B (NR2B), glutamate receptor 2 (GLUR2)). Step knock-out mice have increased phosphorylation of these substrates in the brain, with potential functional consequences in synaptic plasticity and cognitive tasks. It is therefore of interest to identify the molecular pathways and downstream transcriptional targets that are impacted by Step knockdown. In the present study, striatal RNA samples from Step wild-type, knock-out and heterozygous mice were hybridized to Affymetrix microarray chips and evaluated for transcriptional changes between genotypes. Pathway analysis highlighted Erk signaling and multiple pathways related to neurotrophin signaling, neuronal development and synaptic transmission. Potential genes of interest identified by microarray were confirmed by quantitative real-time polymerase chain reaction (qRT-PCR) in the cortex and hippocampus, which shared several transcriptional alterations with the striatum. In order to evaluate Step knockdown in an in vitro system, a panel of genes were evaluated using qRT-PCR in rat cortical neurons that were transduced with lentivirus expressing short hairpin RNA against Step or a non-targeting control. Our data suggest that Step has a role in the expression of immediate early genes relevant to synaptic plasticity, in both in vitro and in vivo systems.
+

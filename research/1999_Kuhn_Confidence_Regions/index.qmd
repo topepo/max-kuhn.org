@@ -1,0 +1,13 @@
+---
+title: "Confidence Regions for Constrained Optima in Response Surface Experiments with Noise Factors"
+image: fig.jpg
+year:  1999 
+categories:
+  - article
+  - experimental design
+---
+
+Kuhn M (1999). “Confidence Regions for Constrained Optima in Response Surface Experiments with Noise Factors.” _Proceedings of the ASA Sections on Physical & Engineering Sciences_, 61-66.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Confidence+Regions+for+Constrained+Optima+in+Response+Surface+Experiments+with+Noise+Factors1999&btnG=) 
+

@@ -1,0 +1,30 @@
+---
+title: "Multiplexed Immunoassay Panel Identifies Novel CSF Biomarkers for Alzheimer's Disease Diagnosis and Prognosis"
+year:  2011 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Craig-Schapiro R, Kuhn M, Xiong C, Pickering EH, Liu J, Misko TP, Perrin RJ, Bales KR, Soares H, Fagan AM, others (2011). “Multiplexed immunoassay panel identifies novel CSF biomarkers for Alzheimer's disease diagnosis and prognosis.” _PloS one_, *6*(4), e18850.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Multiplexed+immunoassay+panel+identifies+novel+CSF+biomarkers+for+Alzheimer+s+disease+diagnosis+and+prognosis2011&btnG=) 
+
+- DOI: [10.1371/journal.pone.0018850](https://doi.org/10.1371/journal.pone.0018850)
+
+
+## Abstract
+
+### Background
+
+Clinicopathological studies suggest that Alzheimer's disease (AD) pathology begins ∼10–15 years before the resulting cognitive impairment draws medical attention. Biomarkers that can detect AD pathology in its early stages and predict dementia onset would, therefore, be invaluable for patient care and efficient clinical trial design. We utilized a targeted proteomics approach to discover novel cerebrospinal fluid (CSF) biomarkers that can augment the diagnostic and prognostic accuracy of current leading CSF biomarkers (Aβ42, tau, p-tau181).
+
+### Methods and Findings
+
+Using a multiplexed Luminex platform, 190 analytes were measured in 333 CSF samples from cognitively normal (Clinical Dementia Rating [CDR] 0), very mildly demented (CDR 0.5), and mildly demented (CDR 1) individuals. Mean levels of 37 analytes (12 after Bonferroni correction) were found to differ between CDR 0 and CDR>0 groups. Receiver-operating characteristic curve analyses revealed that small combinations of a subset of these markers (cystatin C, VEGF, TRAIL-R3, PAI-1, PP, NT-proBNP, MMP-10, MIF, GRO-α, fibrinogen, FAS, eotaxin-3) enhanced the ability of the best-performing established CSF biomarker, the tau/Aβ42 ratio, to discriminate CDR>0 from CDR 0 individuals. Multiple machine learning algorithms likewise showed that the novel biomarker panels improved the diagnostic performance of the current leading biomarkers. Importantly, most of the markers that best discriminated CDR 0 from CDR>0 individuals in the more targeted ROC analyses were also identified as top predictors in the machine learning models, reconfirming their potential as biomarkers for early-stage AD. Cox proportional hazards models demonstrated that an optimal panel of markers for predicting risk of developing cognitive impairment (CDR 0 to CDR>0 conversion) consisted of calbindin, Aβ42, and age.
+
+### Conclusions/Significance
+
+Using a targeted proteomic screen, we identified novel candidate biomarkers that complement the best current CSF biomarkers for distinguishing very mildly/mildly demented from cognitively normal individuals. Additionally, we identified a novel biomarker (calbindin) with significant prognostic potential.
+

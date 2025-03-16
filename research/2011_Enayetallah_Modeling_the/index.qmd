@@ -1,0 +1,19 @@
+---
+title: "Modeling the Mechanism of Action of a DGAT1 Inhibitor using a Causal Reasoning Platform"
+year:  2011 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+---
+
+Enayetallah AE, Ziemek D, Leininger MT, Randhawa R, Yang J, Manion TB, Mather DE, Zavadoski WJ, Kuhn M, Treadway JL, others (2011). “Modeling the mechanism of action of a DGAT1 inhibitor using a causal reasoning platform.” _PloS one_, *6*(11), e27009.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Modeling+the+mechanism+of+action+of+a+DGAT1+inhibitor+using+a+causal+reasoning+platform2011&btnG=) 
+
+- DOI: [10.1371/journal.pone.0027009](https://doi.org/10.1371/journal.pone.0027009)
+
+## Abstract
+
+Triglyceride accumulation is associated with obesity and type 2 diabetes. Genetic disruption of diacylglycerol acyltransferase 1 (DGAT1), which catalyzes the final reaction of triglyceride synthesis, confers dramatic resistance to high-fat diet induced obesity. Hence, DGAT1 is considered a potential therapeutic target for treating obesity and related metabolic disorders. However, the molecular events shaping the mechanism of action of DGAT1 pharmacological inhibition have not been fully explored yet. Here, we investigate the metabolic molecular mechanisms induced in response to pharmacological inhibition of DGAT1 using a recently developed computational systems biology approach, the Causal Reasoning Engine (CRE). The CRE algorithm utilizes microarray transcriptomic data and causal statements derived from the biomedical literature to infer upstream molecular events driving these transcriptional changes. The inferred upstream events (also called hypotheses) are aggregated into biological models using a set of analytical tools that allow for evaluation and integration of the hypotheses in context of their supporting evidence. In comparison to gene ontology enrichment analysis which pointed to high-level changes in metabolic processes, the CRE results provide detailed molecular hypotheses to explain the measured transcriptional changes. CRE analysis of gene expression changes in high fat habituated rats treated with a potent and selective DGAT1 inhibitor demonstrate that the majority of transcriptomic changes support a metabolic network indicative of reversal of high fat diet effects that includes a number of molecular hypotheses such as PPARG, HNF4A and SREBPs. Finally, the CRE-generated molecular hypotheses from DGAT1 inhibitor treated rats were found to capture the major molecular characteristics of DGAT1 deficient mice, supporting a phenotype of decreased lipid and increased insulin sensitivity.
+

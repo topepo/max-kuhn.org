@@ -1,0 +1,19 @@
+---
+title: "Incorporating Noise Factors into Experiments with Censored Data"
+year:  2000 
+image: fig.png
+categories:
+  - article
+  - experimental design  
+---
+
+Kuhn AM, Carter WH, Myers RH (2000). “Incorporating noise factors into experiments with censored data.” _Technometrics_, 376-383.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Incorporating+noise+factors+into+experiments+with+censored+data2000&btnG=) 
+
+- DOI: [10.1080/00401706.2000.10485710](https://doi.org/10.1080/00401706.2000.10485710)
+
+
+## Abstract
+
+Recent advances in quality technology have resulted from considering the variation of a response variable as well as its mean value. Current research dealing with the analysis of data involving noise factors has mostly been confined to models with normally distributed responses. The research described herein focuses on development of methodology for time-to-event data. Once model parameters have been estimated, optimization of the pertinent aspects of the event time distribution can be used to reduce the effect of the noise factors.

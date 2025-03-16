@@ -1,0 +1,21 @@
+---
+title: "More than Just Hormones: H295R Cells as Predictors of Reproductive Toxicity"
+year:  2014 
+image: fig.jpg
+categories:
+  - article
+  - drug discovery
+  - machine learning
+---
+
+Maglich JM, Kuhn M, Chapin RE, Pletcher MT (2014). “More than just hormones: H295R cells as predictors of reproductive toxicity.” _Reproductive toxicology_, *45*, 77-86.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=More+than+just+hormones+H295R+cells+as+predictors+of+reproductive+toxicity2014&btnG=) 
+
+- DOI: [10.1016/j.reprotox.2013.12.009](https://doi.org/10.1016/j.reprotox.2013.12.009)
+
+
+## Abstract
+
+Many of the commonly observed reproductive toxicities associated with therapeutic compounds can be traced to a disruption of the steroidogenic pathway. We sought to develop an in vitro assay that would predict reproductive toxicity and be high throughput in nature. H295R cells, previously validated as having an intact and functional steroidogenic pathway, were treated with 83 known-positive and 79 known-negative proprietary and public-domain compounds. The assay measured the expression of the key enzymes STAR, 3βHSD2, CYP17A1, CYP11B2, CYP19A1, CYP21A2, and CYP11A1 and the hormones DHEA, progesterone, testosterone, and cortisol. We found that a Random Forest model yielded a receiver operating characteristic area under the curve (ROC AUC) of 0.845, with sensitivity of 0.724 and specificity of 0.758 for predicting in vivo reproductive toxicity with this in vitro assay system.
+

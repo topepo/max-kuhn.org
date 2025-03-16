@@ -1,0 +1,32 @@
+---
+title: "P1-089: Plasma Multianalyte Profiling of Mild Cognitive Impairment and Alzheimer's Disease in Two Academic Centers and the Alzheimer's Disease Neuroimaging Initiative"
+year:  2011 
+categories:
+  - article
+  - drug discovery
+---
+
+Hu WT, Holtzman D, Clark C, Grossman M, Karlawish J, Fagan A, Lee V, Swenson F, Craig-Schapiro R, Perrin RJ, others (2011). “P1-089: Plasma multianalyte profiling of mild cognitive impairment and Alzheimer's disease in two academic centers and the Alzheimer's Disease Neuroimaging Initiative.” _Alzheimer's & Dementia_, *7*, S138-S138.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P1+089+Plasma+multianalyte+profiling+of+mild+cognitive+impairment+and+Alzheimer+s+disease+in+two+academic+centers+and+the+Alzheimer+s+Disease+Neuroimaging+Initiative2011&btnG=) 
+
+- DOI: [10.1016/j.jalz.2011.05.368](https://doi.org/10.1016/j.jalz.2011.05.368)
+
+## Abstract
+
+### Background
+
+Biomarkers have significantly improved the clinical prediction of underlying Alzheimer's disease (AD) pathology in patients with memory impairment, but no reliable blood test is available for the diagnosis of AD. Currently, cerebrospinal fluid (CSF) peptides related to AD represent the most promising biomarkers to predict underlying AD pathology, although a blood-based screening algorithm may be useful to identify those with abnormal CSF AD biomarker profiles. Here we present the cross-sectional plasma mutli-analyte profiles of mild cognitive impairment (MCI) and AD from two independent centers and the Alzheimer's Disease Neuroimaging Initiatve (ANDI).
+
+### Methods
+
+600 subjects with normal cognition, MCI, and dementia (including AD and non-AD dementias) were recruited from University of Pennsylvania (Philadelphia, PA) and Washington University (St. Louis, MO). Levels of 189 plasma analytes were measured in these subjects. Plasma analytes associated with MCI and AD were identified in each center's cohort, and candidate plasma biomarkers common to both datasets were validated in the ADNI cohort selected for plasma multi-analyte profiling.
+
+### Results
+
+Seventeen plasma analytes were found to be associated with the clinical diagnosis of MCI/AD in both cohorts, including apolipoprotein E, inflammatory proteins, and neuropeptides. Six of these seventeen analytes also showed altered levels in non-AD dementias (including frontotemporal dementia and dementia with Lewy bodies), with five analytes showing the same type of changes as AD. When all candidate plasma AD biomarkers were examined in ADNI subjects, alterations in three analytes were strongly associated with the clinical diagnosis of MCI/AD and decreased CSF Abeta42 levels after Bonferroni correction for multiple comparisons.
+
+### Conclusions
+
+Alterations in some plasma analytes may be useful in the prediction of MCI, AD, or decreased CSF Abeta42 levels in subjects suspected of having cognitive impairment associated with AD. Plasma analytes identified to be predictive of MCI and AD may differ between independent cohorts due to variations in patient characteristics, risk factors for disease, and sample handling.
+

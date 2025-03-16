@@ -1,0 +1,20 @@
+---
+title: "Statistical Methods for Drug Discovery"
+year:  2016 
+image: fig.jpg
+categories:
+  -  book chapter
+  - drug discovery
+---
+
+Kuhn M, Yates P, Hyde C (2016). “Statistical Methods for Drug Discovery.” In _Nonclinical Statistics for Pharmaceutical and Biotechnology Industries_, volume 1, 53-82. Springer.
+
+- [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Statistical+Methods+for+Drug+Discovery2016&btnG=) 
+
+- DOI: [10.1007/978-3-319-23558-5_4](https://doi.org/10.1007/978-3-319-23558-5_4)
+
+
+## Abstract
+
+This chapter is a broad overview of the drug discovery process and areas where statistical input can have a key impact. The focus is primarily in a few key areas: target discovery, compound screening/optimization, and the characterization of important properties. Special attention is paid to working with assay data and phenotypic screens. A discussion of important skills for a nonclinical statistician supporting drug discovery concludes the chapter.
+
