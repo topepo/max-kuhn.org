@@ -21,7 +21,9 @@ about:
       href: https://blog.aml4td.org            
 ---
 
-Max Kuhn is a software engineer at Posit PBC (nee RStudio). He is improving R’s modeling capabilities and maintaining about 30 packages, including caret. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&D in Connecticut. He has applied models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.  He and Kjell Johnson wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, recognizing the best book reviewed in Technometrics in 2015. He has co-written several other books: Feature Engineering and Selection, Tidy Models with R, and Applied Machine Learning for Tabular Data (in process). 
+Hello! I’m a statistician who works at Posit PBC (formerly RStudio), writing R packages for modeling and data analysis. Before this, I worked in the pharmaceutical and diagnostic industries for over 18 years. 
 
-Max is the author of numerous R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their second book, Feature Engineering and Selection, was published in 2019. 
+I’ve written a number of R packages and books, including _Applied Predictive Modeling_, which won the Ziegel award from the American Statistical Association, recognizing the best book reviewed in Technometrics in 2015. We’re writing another book on machine learning called _Applied Machine Learning for Tabular Data_ and you can read that as we write it at [`https://aml4td.org/`](https://aml4td.org/). 
+
+If you need to contact me, try `mxkuhn@gmail.com`. 
 

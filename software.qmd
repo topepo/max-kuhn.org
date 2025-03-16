@@ -1,5 +1,6 @@
 ---
 title: "Software"
+toc: true
 ---
 
 ```{r}
@@ -67,6 +68,7 @@ kuhn_pkgs <-
  full_join(kuhn_pkgs, downloads, by = "package")
 ```
 
+<br>
 
 ## CRAN Packages Maintained By Me
 
@@ -85,6 +87,8 @@ kuhn_pkgs %>%
 
 
 I also wrote the [odfWeave](https://cran.r-project.org/web/packages/odfWeave/index.html) package which I archived on 2018-04-19.
+
+<br>
 
 ## CRAN Packages Maintained By Others
 
