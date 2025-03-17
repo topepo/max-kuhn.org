@@ -21,7 +21,7 @@ about:
       href: https://blog.aml4td.org            
 ---
 
-Hello! I’m a statistician who works at Posit PBC (formerly RStudio), writing R packages for modeling and data analysis. Before this, I worked in the pharmaceutical and diagnostic industries for over 18 years. 
+Hello! I’m a statistician who works at Posit PBC (formerly RStudio), writing R packages for modeling and data analysis. Before this, I worked in research and development in the pharmaceutical and diagnostic industries for over 18 years. 
 
 I’ve written a number of R packages and books, including _Applied Predictive Modeling_, which won the Ziegel award from the American Statistical Association, recognizing the best book reviewed in Technometrics in 2015. We’re writing another book on machine learning called _Applied Machine Learning for Tabular Data_ and you can read that as we write it at [`https://aml4td.org/`](https://aml4td.org/). 
 
