@@ -12,7 +12,7 @@ toc: true
 - Principal Software Engineer (2025-present)
 - Software Engineer (2016 - 2023)
 
-Responsabilities: 
+Responsibilities: 
 
 - Develop software for statistical modeling, visualization, and analysis for data science.  
 
@@ -24,24 +24,24 @@ Responsabilities:
 - Director (2009 - 2015)
 - Associate Director (2005 - 2009)
 
-Responsabilities: 
+Responsibilities: 
 
-- Apply predictive modeling to diverse areas such as patient analytics, chemistry, manufacturing and other areas.        
+- Apply predictive modeling to diverse areas such as patient analytics, chemistry, manufacturing, etc.        
        
 - Manage a group of statisticians supporting systems biology in drug discovery
 
 - Support drug discovery programs, including
   - Project support for specific development programs
-  - _in-silico_/systems biology: microarray, PCR and RNA interference experiments, mechanistic modeling
+  - _in-silico_/systems biology: microarray, PCR, and RNA interference experiments, mechanistic modeling
   - Computational and medicinal chemistry
   - Drug safety (target--based and compound screening)
   - Biomarker discovery and modeling
   - Assay characterization and validation
   - Scientific computing
 
-- Design, implement and support statistical computing, including several R packages; maintain platforms for gene expression and QSAR modeling; develop parallel processing algorithms and other tools.
+- Design, implement, and support statistical computing, including several R packages; maintain platforms for gene expression and QSAR modeling; develop parallel processing algorithms and other tools.
 
-- Teach internal courses on computing, statistical analysis of gene expression experiments and predictive modeling.
+- Teach internal courses on computing, statistical analysis of gene expression experiments, and predictive modeling.
 
 
 ## [Becton-Dickinson (BD) Diagnostic Systems](https://moleculardiagnostics.bd.com/)
@@ -51,12 +51,13 @@ Responsabilities:
 - Manger (2002 - 2005)
 - Senior Statistician (1998 - 2002)
 
-Responsabilities: 
+Responsibilities: 
 
-- Designed, implemented and maintained predictive algorithms for instrumented systems.          
-- Managed departmental resource planning and budget for clinical and nonclincial statistics.  
-- Coordinated the work activities of 9–-15 direct reports (including statisticians, programmers, database analysts and software testers).  
+- Designed, implemented, and maintained predictive algorithms for instrumented systems.          
+- Managed departmental resource planning and budget for clinical and nonclinical statistics.  
+- Coordinated the work activities of 9–-15 direct reports (including statisticians, programmers, database analysts, and software testers).  
 - Designed and supported data analysis methodologies for molecular biomarker discovery.  
 - Supported product development for diagnostic products and cell culture services. 
 - Provided oversight to clinical protocol design and software development.  
 - Developed statistical aspects of Six Sigma programs for manufacturing and product development. 
+ 

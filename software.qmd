@@ -18,7 +18,7 @@ I have written a variety of [R packages](https://r-pkgs.org/) and have contribut
 
 The sections below enumerate packages on [CRAN](https://cran.r-project.org/). Download statistics are from the Posit mirror of CRAN and are current as of `r today()`.
 
-There are others that are unreleased, prototypes, or otherwise in-progress and these can be found on [my GitHub repositories page](https://github.com/topepo?tab=repositories&q=&type=source&language=&sort=).
+Others are unreleased, prototypes, or otherwise in progress and these can be found on [my GitHub repositories page](https://github.com/topepo?tab=repositories&q=&type=source&language=&sort=).
 
 ```{r}
 #| label: find-packages
@@ -92,7 +92,7 @@ I also wrote the [odfWeave](https://cran.r-project.org/web/packages/odfWeave/ind
 
 ## CRAN Packages Maintained By Others
 
-These packages are those that I have either oriiginally maintained, signficantly contributed to directly, or my code was included enough to be listed as a co-author: 
+These packages are those that I have either originally maintained, significantly contributed to directly, or my code was included enough to be listed as a co-author: 
 
 ```{r}
 #| label: others
