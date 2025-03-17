@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-16.\nThere are others that are unreleased, prototypes, or otherwise in-progress and these can be found on my GitHub repositories page."
+    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-17.\nThere are others that are unreleased, prototypes, or otherwise in-progress and these can be found on my GitHub repositories page."
   },
   {
     "objectID": "software.html#cran-packages-maintained-by-me",
