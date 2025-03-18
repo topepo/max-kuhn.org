@@ -9,7 +9,7 @@ toc: true
 
 **Engineering**:
 
-- Principal Software Engineer (2023-present)
+- Principal Software Engineer (2023 - present)
 - Software Engineer (2016 - 2023)
 
 Responsibilities: 
@@ -55,7 +55,7 @@ Responsibilities:
 
 - Designed, implemented, and maintained predictive algorithms for instrumented systems.          
 - Managed departmental resource planning and budget for clinical and nonclinical statistics.  
-- Coordinated the work activities of 9–-15 direct reports (including statisticians, programmers, database analysts, and software testers).  
+- Coordinated the work activities of 9 - 15 direct reports (including statisticians, programmers, database analysts, and software testers).  
 - Designed and supported data analysis methodologies for molecular biomarker discovery.  
 - Supported product development for diagnostic products and cell culture services. 
 - Provided oversight to clinical protocol design and software development.  
