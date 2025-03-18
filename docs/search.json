@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-17.\nOthers are unreleased, prototypes, or otherwise in progress and these can be found on my GitHub repositories page."
+    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-18.\nOthers are unreleased, prototypes, or otherwise in progress and these can be found on my GitHub repositories page."
   },
   {
     "objectID": "software.html#cran-packages-maintained-by-me",
@@ -25,14 +25,14 @@
     "href": "experience.html#posit-pbc-formerly-rstudio-inc.",
     "title": "Experience",
     "section": "Posit PBC (formerly RStudio Inc.)",
-    "text": "Posit PBC (formerly RStudio Inc.)\nEngineering:\n\nPrincipal Software Engineer (2025-present)\nSoftware Engineer (2016 - 2023)\n\nResponsibilities:\n\nDevelop software for statistical modeling, visualization, and analysis for data science."
+    "text": "Posit PBC (formerly RStudio Inc.)\nEngineering:\n\nPrincipal Software Engineer (2023-present)\nSoftware Engineer (2016 - 2023)\n\nResponsibilities:\n\nDevelop software for statistical modeling, visualization, and analysis for data science."
   },
   {
     "objectID": "experience.html#pfizer-global-rd",
     "href": "experience.html#pfizer-global-rd",
     "title": "Experience",
     "section": "Pfizer Global R&D",
-    "text": "Pfizer Global R&D\nNonclinical Statistics:\n\nSenior Director (2015 - 2016)\nDirector (2009 - 2015)\nAssociate Director (2005 - 2009)\n\nResponsibilities:\n\nApply predictive modeling to diverse areas such as patient analytics, chemistry, manufacturing, etc.\nManage a group of statisticians supporting systems biology in drug discovery\nSupport drug discovery programs, including\n\nProject support for specific development programs\nin-silico/systems biology: microarray, PCR, and RNA interference experiments, mechanistic modeling\nComputational and medicinal chemistry\nDrug safety (target–based and compound screening)\nBiomarker discovery and modeling\nAssay characterization and validation\nScientific computing\n\nDesign, implement, and support statistical computing, including several R packages; maintain platforms for gene expression and QSAR modeling; develop parallel processing algorithms and other tools.\nTeach internal courses on computing, statistical analysis of gene expression experiments, and predictive modeling."
+    "text": "Pfizer Global R&D\nNonclinical Statistics:\n\nSenior Director (2015 - 2016)\nDirector (2009 - 2015)\nAssociate Director (2005 - 2009)\n\nResponsibilities:\n\nApply predictive modeling to diverse areas such as patient analytics, chemistry, manufacturing, etc.\nManage a group of statisticians supporting systems biology in drug discovery\nSupport drug discovery programs, including\n\nProject support for specific development programs\nin-silico/systems biology: microarray, PCR, and RNA interference experiments, mechanistic modeling\nComputational and medicinal chemistry\nDrug safety (target-based and compound screening)\nBiomarker discovery and modeling\nAssay characterization and validation\nScientific computing\n\nDesign, implement, and support statistical computing, including several R packages; maintain platforms for gene expression and QSAR modeling; develop parallel processing algorithms and other tools.\nTeach internal courses on computing, statistical analysis of gene expression experiments, and predictive modeling."
   },
   {
     "objectID": "experience.html#becton-dickinson-bd-diagnostic-systems",

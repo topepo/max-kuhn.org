@@ -9,7 +9,7 @@ toc: true
 
 **Engineering**:
 
-- Principal Software Engineer (2025-present)
+- Principal Software Engineer (2023-present)
 - Software Engineer (2016 - 2023)
 
 Responsibilities: 
@@ -34,7 +34,7 @@ Responsibilities:
   - Project support for specific development programs
   - _in-silico_/systems biology: microarray, PCR, and RNA interference experiments, mechanistic modeling
   - Computational and medicinal chemistry
-  - Drug safety (target--based and compound screening)
+  - Drug safety (target-based and compound screening)
   - Biomarker discovery and modeling
   - Assay characterization and validation
   - Scientific computing
