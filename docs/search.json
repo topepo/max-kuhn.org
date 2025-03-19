@@ -4,7 +4,7 @@
     "href": "software.html",
     "title": "Software",
     "section": "",
-    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-18.\nOthers are unreleased, prototypes, or otherwise in progress and these can be found on my GitHub repositories page."
+    "text": "I have written a variety of R packages and have contributed to others.\nThe sections below enumerate packages on CRAN. Download statistics are from the Posit mirror of CRAN and are current as of 2025-03-19.\nOthers are unreleased, prototypes, or otherwise in progress and these can be found on my GitHub repositories page."
   },
   {
     "objectID": "software.html#cran-packages-maintained-by-me",
@@ -46,7 +46,7 @@
     "href": "research/2000_Kuhn_Incorporating_noise/index.html",
     "title": "Incorporating Noise Factors into Experiments with Censored Data",
     "section": "",
-    "text": "Kuhn AM, Carter WH, Myers RH (2000). “Incorporating noise factors into experiments with censored data.” Technometrics, 376-383."
+    "text": "Kuhn M, Carter WH, Myers RH (2000). “Incorporating noise factors into experiments with censored data.” Technometrics, 376-383."
   },
   {
     "objectID": "research/2000_Kuhn_Incorporating_noise/index.html#abstract",
@@ -123,7 +123,7 @@
     "href": "research/2003_Wang_Homogeneous_realtime/index.html",
     "title": "Homogeneous Real-Time Detection of Single-Nucleotide Polymorphisms by Strand Displacement Amplification on the BD ProbeTec ET System",
     "section": "",
-    "text": "Wang S, Thornton K, Kuhn AM, Nadeau JG, Hellyer TJ (2003). “Homogeneous real-time detection of single-nucleotide polymorphisms by strand displacement amplification on the BD ProbeTec ET system.” Clinical chemistry, 49(10), 1599."
+    "text": "Wang S, Thornton K, Kuhn M, Nadeau JG, Hellyer TJ (2003). “Homogeneous real-time detection of single-nucleotide polymorphisms by strand displacement amplification on the BD ProbeTec ET system.” Clinical chemistry, 49(10), 1599."
   },
   {
     "objectID": "research/2003_Wang_Homogeneous_realtime/index.html#abstract",
@@ -172,7 +172,7 @@
     "href": "research/1999_Kuhn_Empirical_Power/index.html",
     "title": "Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials",
     "section": "",
-    "text": "Kuhn AM, DeMasi RA (1999). “Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials.” Journal of Biopharmaceutical Statistics, 9(3), 401-416."
+    "text": "Kuhn max-kuhn.org, DeMasi RA (1999). “Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials.” Journal of Biopharmaceutical Statistics, 9(3), 401-416."
   },
   {
     "objectID": "research/1999_Kuhn_Empirical_Power/index.html#abstract",
@@ -312,7 +312,7 @@
     "href": "research/2010_Kleiman_P3380_Dendritic/index.html",
     "title": "P3-380: Dendritic Spine Density Deficits in the Hippocampal CA1 Region of Young Tg2576 Mice are Ameliorated with the PDE9A Inhibitor PF-04447943",
     "section": "",
-    "text": "Kleiman RJ, Lanz TA, Finley JE, Bove SE, Majchrzak MJ, Becker SL, Carvajal-Gonzales S, Kuhn AM, Wood KM, Mariga A, others (2010). “P3-380: Dendritic spine density deficits in the hippocampal CA1 region of young Tg2576 mice are ameliorated with the PDE9A inhibitor PF-04447943.” Alzheimer’s & Dementia, 6, S563-S564."
+    "text": "Kleiman RJ, Lanz TA, Finley JE, Bove SE, Majchrzak MJ, Becker SL, Carvajal-Gonzales S, Kuhn M, Wood KM, Mariga A, others (2010). “P3-380: Dendritic spine density deficits in the hippocampal CA1 region of young Tg2576 mice are ameliorated with the PDE9A inhibitor PF-04447943.” Alzheimer’s & Dementia, 6, S563-S564."
   },
   {
     "objectID": "research/2010_Kleiman_P3380_Dendritic/index.html#abstract",
@@ -697,7 +697,7 @@
     "href": "research/2003_Kuhn_Optimizing_Response/index.html",
     "title": "Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions",
     "section": "",
-    "text": "Kuhn AM (2003). “Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions.” Quality Engineering, 15(3), 419-426."
+    "text": "Kuhn M (2003). “Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions.” Quality Engineering, 15(3), 419-426."
   },
   {
     "objectID": "research/2003_Kuhn_Optimizing_Response/index.html#abstract",

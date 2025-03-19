@@ -7,7 +7,7 @@ categories:
   - moledular diagnostics
 ---
 
-Wang S, Thornton K, Kuhn AM, Nadeau JG, Hellyer TJ (2003). “Homogeneous real-time detection of single-nucleotide polymorphisms by strand displacement amplification on the BD ProbeTec ET system.” _Clinical chemistry_, *49*(10), 1599.
+Wang S, Thornton K, Kuhn M, Nadeau JG, Hellyer TJ (2003). “Homogeneous real-time detection of single-nucleotide polymorphisms by strand displacement amplification on the BD ProbeTec ET system.” _Clinical chemistry_, *49*(10), 1599.
 
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Homogeneous+real+time+detection+of+single+nucleotide+polymorphisms+by+strand+displacement+amplification+on+the+BD+ProbeTec+ET+system2003&btnG=) 
 

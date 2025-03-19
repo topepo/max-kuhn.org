@@ -6,7 +6,7 @@ categories:
   - article
 ---
 
-Kuhn AM, DeMasi RA (1999). “Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials.” _Journal of Biopharmaceutical Statistics_, *9*(3), 401-416.
+Kuhn max-kuhn.org, DeMasi RA (1999). “Empirical Power for Distribution-Free Tests of Incomplete Longitudinal Data with Applications to AIDS Clinical Trials.” _Journal of Biopharmaceutical Statistics_, *9*(3), 401-416.
 
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Empirical+Power+for+Distribution+Free+Tests+of+Incomplete+Longitudinal+Data+with+Applications+to+AIDS+Clinical+Trials1999&btnG=) 
 

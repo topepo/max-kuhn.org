@@ -6,7 +6,7 @@ categories:
   - drug discovery
 ---
 
-Kleiman RJ, Lanz TA, Finley JE, Bove SE, Majchrzak MJ, Becker SL, Carvajal-Gonzales S, Kuhn AM, Wood KM, Mariga A, others (2010). “P3-380: Dendritic spine density deficits in the hippocampal CA1 region of young Tg2576 mice are ameliorated with the PDE9A inhibitor PF-04447943.” _Alzheimer's & Dementia_, *6*, S563-S564.
+Kleiman RJ, Lanz TA, Finley JE, Bove SE, Majchrzak MJ, Becker SL, Carvajal-Gonzales S, Kuhn M, Wood KM, Mariga A, others (2010). “P3-380: Dendritic spine density deficits in the hippocampal CA1 region of young Tg2576 mice are ameliorated with the PDE9A inhibitor PF-04447943.” _Alzheimer's & Dementia_, *6*, S563-S564.
 
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=P3+380+Dendritic+spine+density+deficits+in+the+hippocampal+CA1+region+of+young+Tg2576+mice+are+ameliorated+with+the+PDE9A+inhibitor+PF+044479432010&btnG=) 
 

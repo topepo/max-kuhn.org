@@ -7,7 +7,7 @@ categories:
   - experimental design  
 ---
 
-Kuhn AM (2003). “Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions.” _Quality Engineering_, *15*(3), 419-426.
+Kuhn M (2003). “Optimizing Response Surface Experiments with Noise Factors Using Confidence Regions.” _Quality Engineering_, *15*(3), 419-426.
 
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Optimizing+Response+Surface+Experiments+with+Noise+Factors+Using+Confidence+Regions2003&btnG=) 
 

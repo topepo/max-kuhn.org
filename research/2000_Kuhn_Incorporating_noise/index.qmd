@@ -7,7 +7,7 @@ categories:
   - experimental design  
 ---
 
-Kuhn AM, Carter WH, Myers RH (2000). “Incorporating noise factors into experiments with censored data.” _Technometrics_, 376-383.
+Kuhn M, Carter WH, Myers RH (2000). “Incorporating noise factors into experiments with censored data.” _Technometrics_, 376-383.
 
 - [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=Incorporating+noise+factors+into+experiments+with+censored+data2000&btnG=) 
 
